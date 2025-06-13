@@ -2,7 +2,7 @@
 Sales trends analysis for e-commerce company.
 
 # Overview
-Write overview of findings here.
+The period from 2019 to 2022 was an eventful one for Elist. In 2019, total annual sales topped out at $3.86 M, but with the onset of the pandemic annual sales for 2020 jumped up an astronomical 163% to $10.15M, reaching all time highs. 96% of this revenue was found to be attributed to 4 products: .... 
 
 ## ERD
 ![ERD - Elist Data](https://github.com/user-attachments/assets/90a7c570-c8ad-4115-9d2c-ea1f0a367791)
@@ -10,6 +10,7 @@ Write overview of findings here.
 # Deep Dive Insights
 
 ## Sales Trends
+ 
 
 Between 2019 and 2022, the business processed over 108K orders and brought in $28.1M in total revenue. The most dramatic growth occurred in 2020, when sales spiked by 163%, fueled by a 101% increase in order volume and a 31% boost in average order value. While AOV dipped 15% in 2021, overall sales held strong — still 136% above pre-pandemic levels. In 2022, however, revenue fell by 46% as order volume dropped 40% and AOV returned to its pre-pandemic average of $230. Even so, order activity remained 28% higher than in 2019, preserving a solid share of earlier gains. Going forward, the focus will be in stablilizing this retention and building toward sustainable growth. 
 
