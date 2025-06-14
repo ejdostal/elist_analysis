@@ -131,11 +131,59 @@ LEFT JOIN core.orders
 ON order_status.order_id = orders.id
 GROUP BY 1,2
 ORDER BY 1 DESC;
--- (ORDER BY 1 DESC) No refunds were recorded for any product in 2022 - could be a data quality issue. Recommend that data engineers investigate the anomaly further.
+-- (ORDER BY 1 DESC) No refunds recorded for any product in 2022 - could be a data quality issue. Recommend that data engineers investigate the anomaly further.
 -- (ORDER BY 4 DESC) For MacBook Air Laptop purchases made during 2019, 18.3% of them were eventually refunded. (product and year with highest refund rate across dataset)
 -- (HAVING purchase_year = 2021) Thinkpad Laptop purchases had the highest refund rate in 2021 (~9.1% refunded)
 
 
 -- Within each region, what is the most popular product? 
   -- assuming "popular" is defined as highest order count
+  -- qualify to filter cte
 
+SELECT DISTINCT orders.product_name
+FROM core.orders;
+-- to check product_name
+
+WITH sales_by_product as (
+  SELECT geo_lookup.region,
+  (CASE WHEN orders.product_name = '27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE orders.product_name END) as product_name_clean,
+  COUNT(DISTINCT orders.id) as total_orders
+  FROM core.orders
+  LEFT JOIN core.customers
+  ON orders.customer_id = customers.id
+  LEFT JOIN core.geo_lookup
+  ON geo_lookup.country = customers.country_code
+  GROUP BY 1,2)
+
+SELECT *,
+ROW_NUMBER() OVER (PARTITION BY region ORDER BY total_orders DESC) as order_ranking
+FROM sales_by_product
+QUALIFY ROW_NUMBER() OVER (PARTITION BY region ORDER BY total_orders DESC) = 1
+ORDER BY total_orders DESC;
+-- Apple Airpods Headphones are the most popular product by order count across all regions
+-- North America had the highest number of Airpod purchases (18.5K)
+
+
+-- How does the time to make a purchase differ between loyalty customers vs. non-loyalty customers? 
+  -- assuming time to purchase is in the days or months between purchase timestamp and customer created timestamp
+
+SELECT customers.loyalty_program,
+  ROUND(AVG(DATE_DIFF(orders.purchase_ts, customers.created_on, day)),1) as days_to_purchase,
+  ROUND(AVG(DATE_DIFF(orders.purchase_ts, customers.created_on, month)),1) as months_to_purchase 
+FROM core.customers
+LEFT JOIN core.orders
+ON customers.id = orders.customer_id
+GROUP BY 1;
+-- Customers in the loyalty program took 30% time to make a purchase, 1.6 months after account creation vs. 2.5 months for non-loyalty
+
+
+-- How does the time to make a purchase differ between purchase platforms for loyalty and non-loyalty customers?
+  -- returns number of records to benchmark the severity of nulls
+
+SELECT customers.loyalty_program,
+  ROUND(AVG(DATE_DIFF(orders.purchase_ts, customers.created_on, day)),1) as days_to_purchase,
+  ROUND(AVG(DATE_DIFF(orders.purchase_ts, customers.created_on, month)),1) as months_to_purchase 
+FROM core.customers
+LEFT JOIN core.orders
+ON customers.id = orders.customer_id
+GROUP BY 1;
