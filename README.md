@@ -21,12 +21,10 @@ An ERD representing the main database structure and relationships between analyz
 [] High-level overview of findings, explained to non-technical audience 
 -->
 
-Overview of findings in 2-3 sentences
-
-
-
+<!-- Overview of findings in 2-3 sentences
 
 The period from 2019 to 2022 was an eventful one for Elist. In 2019, total annual sales topped out at $3.86 M, but with the onset of the pandemic annual sales for 2020 jumped up an astronomical 163% to $10.15M, reaching all time highs. 96% of this revenue was found to be attributed to 4 products: .... 
+-->
 
 ### ERD
 
@@ -46,41 +44,58 @@ In 2019, annual sales totaled $3.87M with approximately 16.8K orders at an avera
 
 By 2022, a return to normalcy saw AOV revert toward its 2019 level and total order volume drop by 40%. Nevertheless, annual sales remained 28% higher than in 2019, reflecting sustained growth in customer activity — with total orders (21.5K) 28% above their 2019 level.
 
+
 <!-- <p align="center">
-<img src="Images/AOV vs Order Count.png" width="400" style="display: inline; margin-right: 10px;" >
-<img src="Images/Total Sales.png" width="400" style="display: inline;" />
+  <img src="Images/Order Count is what&apos;s sustaining sales growth post-pandemic.png" 
+       style="max-width: 49%; height: auto; display: inline-block; margin-right: 2%;" />
+  <img src="Images/AOV vs Order Count.png" 
+       style="max-width: 49%; height: auto; display: inline-block;" />
+</p>
+
+<p align="center">
+  <img src="Images/Order Count is what&apos;s sustaining sales growth post-pandemic.png" 
+       style="max-width: 49%; height: auto; display: inline-block; margin-right: 2%;" />
+  <img src="Images/AOV vs Order Count.png" 
+       style="max-width: 49%; height: auto; display: inline-block;" />
+</p>
+
+<p align="center">
+  <img src="Images/Order Count is what&apos;s sustaining sales growth post-pandemic.png" 
+       style="max-width: 49%; height: auto; display: inline-block; margin-right: 2%;" />
+  <img src="Images/AOV vs Order Count.png" 
+       style="max-width: 49%; height: auto; display: inline-block;" />
 </p>
 -->
-
-
-![Total Sales](Images/Total%20sales%20-%2028per%20increase.png)
-
+![Post-Pandemic Sales Growth](Images/Order%20Count%20is%20what's%20sustaining%20sales%20growth%20post-pandemic.png)
 
 Interestingly, there was also a clear inverse relationship between AOV and order volume: as AOV fell, order volume grew, and when AOV rose, order volume declined. This pattern may reflect pricing sensitivities or spending thresholds among our customer base; however, it’s unclear whether this is a permanent trend in customer behavior or a reflection of unusual market conditions during the pandemic. Further analysis may be needed to determine whether these patterns will continue in future periods.
 
-![AOV vs Order Count](Images/AOV%20vs%20Order%20Count.png) 
-
-
 
 ### Seasonality
-Despite massive fluctuations in sales across this time period, some consistent patterns in seasonality could still be observed. Sales consistently reached higher levels in December and lowered significatntly in February, closely mirroring holiday-driven demand cycles. Each year, momentum built steadily from June through the end of the year, with a typical drop in sales in October, as buyers delayed spending until the holidays. 
+Despite massive fluctuations in sales across this time period, some consistent patterns in seasonality could still be observed. Sales consistently reached higher levels in December and lower levels in February, closely mirroring holiday-driven demand cycles. Each year, momentum built steadily from June through the end of the year, with a typical drop in sales in October, as buyers delayed spending until the holidays. This same pattern could be observed even as sales trended downward in 2021 and 2022.
+
+![Monthly Trends by Year](Images/Monthly%20Trends%20by%20Year%20-%20Chart.png) 
 
 A few clear outliers included March 2020, when sales hit an all-time high — likely reflecting the initial shock and surge in consumer activity at the onset of the pandemic. 
 
 AOV also tended to experience its highest growth in August (4%), steadily increasing until AOV reached maxs in Oct ($272). It's possible this reflects increases in spending on edtech such as as back to school laptops. 
 
 
+
 ### Product Trends
 Top performing products included the 27in 4K Gaming Monitor, Apple AirPods Headphones, and the MacBook Air Laptop - which together accounted 85% of all revenue generated between 2019-2022. 
+
+![85% of Sales](Images/3%20Products.png) 
 
 Apple AirPods Headphones were Elist's most popular product, accounting for 45% of total order count and $7.7M in total sales. This was only second in total revenue to the 27in 4K Gaming Monitor, which brought in $9.85M - the highest share of any product sold. 
 
 In addition to having a driven by to a 38% higher AOV than Apple Airpods and a sizeable order count of its own (22%). MacBook Airs ranked third in revenue at $6.2M, despite representing only 4% of orders — the result of having the highest AOV of any product. 
 
-
 Similarly, ThinkPad Laptops, second in AOV, earned 11% of total sales despite having a none too disimilar total order count of 3%. This demonstrates how even even modest volume gains in high-AOV categories, especially laptops could drive significant revenue growth, making them strong candidates for targeted promotion.
 
 In contrast to Bose Soundsport Headphones,
+
+
 
 ### Loyalty Program
 
