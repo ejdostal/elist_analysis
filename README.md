@@ -46,17 +46,20 @@ In 2019, annual sales totaled $3.87M with approximately 16.8K orders at an avera
 
 By 2022, a return to normalcy saw AOV revert toward its 2019 level and total order volume drop by 40%. Nevertheless, annual sales remained 28% higher than in 2019, reflecting sustained growth in customer activity — with total orders (21.5K) 28% above their 2019 level.
 
-<p align="center">
+<!-- <p align="center">
 <img src="Images/AOV vs Order Count.png" width="400" style="display: inline; margin-right: 10px;" >
 <img src="Images/Total Sales.png" width="400" style="display: inline;" />
 </p>
-
-![ERD - Elist Data](Images/Total%20Sales.png)  
-
-![ERD - Elist Data](Images/AOV%20vs%20Order%20Count.png)  
+-->
 
 
-Interestingly, there was a clear inverse relationship between AOV and order volume: as AOV fell, order volume grew, and when AOV rose, order volume declined. This pattern may reflect pricing sensitivities or spending thresholds among our customer base; however, it’s unclear whether this is a permanent trend in customer behavior or a reflection of unusual market conditions during the pandemic. Further analysis may be needed to determine whether these patterns will continue in future periods.
+![Total Sales](Images/Total%20sales%20-%2028per%20increase.png)
+
+
+Interestingly, there was also a clear inverse relationship between AOV and order volume: as AOV fell, order volume grew, and when AOV rose, order volume declined. This pattern may reflect pricing sensitivities or spending thresholds among our customer base; however, it’s unclear whether this is a permanent trend in customer behavior or a reflection of unusual market conditions during the pandemic. Further analysis may be needed to determine whether these patterns will continue in future periods.
+
+![AOV vs Order Count](Images/AOV%20vs%20Order%20Count.png) 
+
 
 
 ### Seasonality
