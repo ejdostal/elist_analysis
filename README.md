@@ -44,6 +44,9 @@ The period from 2019 to 2022 was an eventful one for Elist. In 2019, total annua
 Body text 
 
 ### Sales Trends
+
+![Overall Sales Trends](Images/Overall%20Sales%20Trends%202.png)  
+
 <!-- Summary paragraph - if you could explain your findings in a quick 20 second overview
 
 Go one level deeper on specifics in bullets here - call out specific important details, numbers here
