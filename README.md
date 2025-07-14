@@ -45,8 +45,8 @@ An ERD representing the main database structure and relationships between analyz
 <!-- - [x]  ERD of Dataset -->
 
 The data analyzed spanned a total of 108K+ records across four tables: orders, customers, geo_lookup, and order_status.
-
-<img width="600" src= '/Users/Erica/Documents/GitHub Repos/elist_analysis/elist_analysis/Images/ERD - Elist Data.png'> 
+![](Images/ERD%20-%20Elist%20Data.png)
+<!-- <img width="600" src= '/Users/Erica/Documents/GitHub Repos/elist_analysis/elist_analysis/Images/ERD - Elist Data.png'> -->
 
 Before analysis, the dataset was cleaned in Excel to address column inconsistencies, manage missing or inaccurate records, and assess their impact on results. Helper columns and time-based features were added to enable trend analysis across multiple time grains. An issues log documenting data quality issues, their severity, and resolution status is available [here].
 
@@ -66,14 +66,15 @@ A deep dive into trends and insights can be found below.
 -->  
 
 ### Sales Trends 
-<img width="600" src= '/Users/Erica/Documents/GitHub Repos/elist_analysis/elist_analysis/Images/Overall Sales Trends.png'>   
+<!-- <img width="600" src= '/Users/Erica/Documents/GitHub Repos/elist_analysis/elist_analysis/Images/Overall Sales Trends.png'>   -->
 
+![](Images/Overall%20Sales%20Trends%202.png)
 #### Overall Sales Trends
 
 From 2019 to 2022, TechHub generated $28M in total sales, averaging $7M in annual revenue, 27K annual orders, and a $254 average order value (AOV). The company’s strongest performance occurred during the pandemic, with 2020 and 2021 accounting for nearly 70% of total revenue ($10M and $9M, respectively), driven by sharp increases in both AOV and order volume. March 2020 marked the steepest monthly growth—a 50% revenue jump from $479K to $720K—likely driven by widespread in-store shutdowns. Sales continued rising through 2020, peaking at $1.25M in December. In 2021, revenue declined and continued trending downward into 2022, signaling market normalization. However, by 2022, while AOV had returned to 2019 levels, annual order volume remained elevated—sustaining a 28% revenue increase compared to pre-pandemic levels. This suggests a lasting shift in customer behavior toward online tech purchases and highlights order volume as a key lever for stable, long-term revenue growth.
 
 
-
+![](Images/Monthly%20Trends%20by%20Year%20-%20Chart.png)
 #### Seasonality
 Despite the volatility of sales during the analyzed time period,seasonal sales patterns could still be observed across the 4 year period. Across the average year, sales growth was highest in November (18%) and December (23%), and typically dipped lowest in October (-28%), January (-10%), and February (-23%), corresponding with the typical ebb and flow of the holiday season. Sales would then gradually increase from March onwards and dip again in June (by -9% on average), and rebounding more significantly in July (9%), August (4%), and September (13%) - corresponding with the start of the school year. Interestingly, August consistently saw the highest increases in average order value (AOV), with AOV growing by an average of 4%—the largest monthly AOV increase across the year. This could present an optimal window to promote higher-value products, such as MacBook Air and ThinkPad laptops, as potential back-to-school essentials.
 
@@ -83,6 +84,7 @@ Despite the volatility of sales during the analyzed time period,seasonal sales p
 - [x] Explain findings in detail, highlighting key trends, anomalies / outliers, and comparisons
 - [x] Include clean visuals (pivot tables, dashboards, graphs)
 -->
+![](Images/3%20Products.png)
 
 From 2019 to 2022, four products generated 96% of TechHub’s total revenue: the 27" 4K Gaming Monitor ($9.85M), Apple AirPods Headphones ($7.73M), MacBook Air Laptop ($6.29M), and ThinkPad Laptop ($3.20M). The Gaming Monitor led in total revenue due to a strong combination of high order volume (23K) and a healthy AOV of $421. AirPods were the most frequently purchased product with 48.4K orders, relying on volume rather than price (AOV: $160) to drive revenue. Meanwhile, both laptops stood out for their high AOVs—$1.5K for the MacBook Air and $1.1K for the ThinkPad—contributing 22% and 11% of total revenue, respectively, despite representing only a small share of orders (4% and 3%). These figures suggest that modest increases in laptop sales could significantly boost overall revenue.
 
@@ -105,6 +107,7 @@ APAC contributed 13% of total revenue ($3.6M) but stood out for having the highe
 - [ ] Explain findings in detail, highlighting key trends, anomalies / outliers, and comparisons
 - [ ] Include clean visuals (pivot tables, dashboards, graphs)
 -->
+![](Images/loyalty%20-%20per%20total%20sales.png)
 From 2019 to 2022, non-loyalty customers generated higher overall revenue for TechHub—approximately $17.1M across ~62K orders, with an average order value (AOV) of $275—compared to loyalty members, who brought in ~$10M from ~46K orders with a lower AOV of $240.However, loyalty members demonstrated stronger year-over-year growth and greater consistency. Loyalty revenue surged 614% from 2019 to 2020 (from ~$415K to ~$2.97M), followed by another 64% increase in 2021. In contrast, while non-loyalty revenue also grew significantly from 2019 to 2020 (108%, from ~$3.4M to ~$7.1M), it declined sharply after 2020 and continued to fall through 2022. By 2021, loyalty members contributed more than half of total annual revenue (53%), rising to 55% in 2022 — a trend mirrored in order volume. Loyalty AOV also surpassed that of non-loyalty customers in 2022 ($245 vs. $215), despite broader post-pandemic spending declines.These trends suggest loyalty members are emerging as TechHub’s most stable and valuable customer segment. Further analysis of program costs, regional distribution, and acquisition channels (e.g., marketing platforms) is recommended, but early evidence supports continued investment in the loyalty program to capitalize on its resilience and long-term growth potential.
 ### Refund Rates by Apple Product
 <!--
