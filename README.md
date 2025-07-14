@@ -1,8 +1,8 @@
 <!-- The real value of portfolio projects lies in your ability to explain them, learn the on-the-job frameworks, and supplement your interviews with proof of the quality of your work - not in simply doing them. 
--->
 <p align="center">
   <img src= '/Users/Erica/Documents/GitHub Repos/elist_analysis/elist_analysis/Images/tech hub + subtitle+variation.png' alt="TechHub Banner" height="300">
-</p>
+</p>-->
+![](Images/tech%20hub%20and%20subtitle%20variation.png)
 
 #  TechHub e-Commerce Analysis
  <!--
@@ -10,9 +10,6 @@ Sales analysis for an e-commerce company.
 
 As a data analyst, your goal is to help the team (both technical and non-technical people) understand what you found, how you found it, and what they can do with these findings. 
 -->
-
-
-
 ## Project Background
 <!-- 
 - [x] Overview of company history, business model, and goals   
