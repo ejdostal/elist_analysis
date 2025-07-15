@@ -70,11 +70,11 @@ A deep dive into trends and insights can be found below.
 
 From 2019 to 2022, TechHub generated $28M in total sales, averaging $7M in annual revenue, 27K annual orders, and a $254 average order value (AOV). The company’s strongest performance occurred during the pandemic, with 2020 and 2021 accounting for nearly 70% of total revenue ($10M and $9M, respectively), driven by sharp increases in both AOV and order volume. March 2020 marked the steepest monthly growth—a 50% revenue jump from $479K to $720K—likely driven by widespread in-store shutdowns. Sales continued rising through 2020, peaking at $1.25M in December. In 2021, revenue declined and continued trending downward into 2022, signaling market normalization. However, by 2022, while AOV had returned to 2019 levels, annual order volume remained elevated—sustaining a 28% revenue increase compared to pre-pandemic levels. This suggests a lasting shift in customer behavior toward online tech purchases and highlights order volume as a key lever for stable, long-term revenue growth.
 
-
+<!--
 ![](Images/Monthly%20Trends%20by%20Year%20-%20Chart.png)
 #### Seasonality
 Despite the volatility of sales during the analyzed time period,seasonal sales patterns could still be observed across the 4 year period. Across the average year, sales growth was highest in November (18%) and December (23%), and typically dipped lowest in October (-28%), January (-10%), and February (-23%), corresponding with the typical ebb and flow of the holiday season. Sales would then gradually increase from March onwards and dip again in June (by -9% on average), and rebounding more significantly in July (9%), August (4%), and September (13%) - corresponding with the start of the school year. Interestingly, August consistently saw the highest increases in average order value (AOV), with AOV growing by an average of 4%—the largest monthly AOV increase across the year. This could present an optimal window to promote higher-value products, such as MacBook Air and ThinkPad laptops, as potential back-to-school essentials.
-
+-->
 
 ### Product Performance
 <!--
