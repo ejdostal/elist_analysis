@@ -52,23 +52,24 @@ Before analysis, the dataset was cleaned in Excel to address column inconsistenc
 From 2019 to 2022, TechHub experienced strong pandemic-driven growth, with sales peaking in 2020 and stabilizing above pre-pandemic levels by 2022. Revenue growth retained post-pandemic was driven largely by a sustained 28% increase in order volume since 2019, suggesting a potential long-term shift in online tech purchasing behavior going forward. It was discovered that just four products accounted for 96% of total revenue and that NA and EMEA regions led in overall revenue and order volume. 
 
 <!-- Loyalty members became TechHub’s most consistent revenue stream by 2022, surpassing non-loyalty customers in both the annual AOV and annual revenue. MacBook Air Laptops had the highest refund rates among Apple products, warranting further review given their premium price point and sizable contribution to total revenue.-> 
+-->
+A deep dive into trends and insights, including a breakdown of sales trends by year, seasonality, product, and region can be found below.
 
-A deep dive into trends and insights can be found below.
 
 ## Deep-Dive Insights
 <!--
 - [x] bulleted list, split into sections 
 - [x] Explain findings in detail, highlighting key trends, anomalies / outliers, and comparisons
   [x] Include clean visuals (pivot tables, dashboards, graphs)
--->  
+  -->
 
 ### Overall Sales Trends 
 
 ![](Images/overall%20sales.png)
 
-Between 2019 and 2022, TechHub’s sales performance reflected the volatility of a rapidly shifting market. Over four years, the company brought in $28.1M in revenue from 108K total orders, averaging about $7M and 27K orders per year. However, this average masks an important trend: nearly 70% of total revenue was concentrated in 2020 and 2021, when both order volume and average order value (AOV) surged during the pandemic.
+Between 2019 and 2022, TechHub’s sales performance reflected the volatility of a rapidly shifting market. **Over four years, the company brought in $28.1M in revenue from 108K total orders**, averaging about $7M and 27K orders per year. However, this average masks an important trend: nearly 70% of total revenue was concentrated in 2020 and 2021, when both order volume and average order value (AOV) surged during the pandemic.
 
-Order volume was the clearest driver of growth. It more than doubled at the height of the pandemic, reaching an all-time high in 2021. Even after a steep decline in 2022 as the market began to normalize, order volume remained 28% higher than pre-pandemic levels. This sustained lift in customer activity played a critical role in maintaining revenue post-pandemic and may signal a lasting shift in consumer behavior around online tech purchases.
+**Order volume was the clearest driver of growth.** It more than doubled at the height of the pandemic, reaching an all-time high in 2021. Even after a steep decline in 2022 as the market began to normalize, order volume remained 28% higher than pre-pandemic levels. This sustained lift in customer activity played a critical role in maintaining revenue post-pandemic and may signal a lasting shift in consumer behavior around online tech purchases.
 
 While AOV initially spiked in 2020, it steadily declined over the next two years and returned to 2019 levels by 2022. Still, the elevated order volume—despite the drop in AOV—suggests that TechHub may have an opportunity to build on a larger, more engaged customer base in the years ahead.
 
