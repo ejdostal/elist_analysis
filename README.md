@@ -151,73 +151,42 @@ Lastly, the Bose Soundsport Headphones underperformed significantly, generating 
 - [ ] Include clean visuals (pivot tables, dashboards, graphs)
 -->
 
-<!--
 From 2019 to 2022, TechHub’s global revenue was highly concentrated in NA and EMEA, which together drove 81% of total sales ($22.8M) across 87.6K orders, both maintaining AOVs near $260. Meanwhile, APAC showed early promise, outperforming all regions in AOV, while LATAM underperformed due to sustained AOV declines and lower order volume.
 
-**Key Insight**: Just 10 countries accounted for 78% of global revenue ($21.8M), highlighting priority markets for investment — most notably the United States, Great Britain, and Japan.
+Across all regions, just 10 countries accounted for 78% of global revenue ($21.8M), highlighting priority markets for investment. These countries - in addition to a few other noteable countries - were analyzed in more detail below, listed under their corresponding regions.
 
 ![ ](Images/regional%20distribution.png)
 ![ ](Images/top%2010%20countries.png)
 
+**North America | $14.6M (52% of global revenue)**  
+NA was TechHub’s strongest region by far, delivering over half of global revenue and orders. Two countries within the NA region accounted for almost all of its sales.
+- **United States** led all countries, generating $13.2M (47% global revenue) from 50.6K orders with an AOV of $262. It made up 91% of North American sales.
+- **Canada** contributed $1.1M (4% global revenue), with a slightly lower AOV of $247, but still represented a strong secondary market with 4.8K orders.  
 
-**North America | $14.6M (52% of global revenue)**
-NA was TechHub’s strongest region by far, delivering over half of global revenue and orders.
-- **United States** led all markets, generating $13.2M (47% global revenue) from 50.6K orders with an AOV of $262.
-- **Canada** contributed $1.1M (4%), with a slightly lower AOV of $247, but still represented a strong secondary market with 4.8K orders.
-
-NA's concentration in two markets with reliable volume and stable AOVs makes it central to future revenue stability.
+North America's concentration in two markets with reliable volume and stable AOVs makes it central to future revenue stability.  
 
 **EMEA | $8.2M (29% of global revenue)**  
-EMEA was the second-highest performing region, with broader country-level distribution and an AOV of $259 across 31.8K orders.
-- **Great Britain** was the regional leader at $2.09M (25% of EMEA), ranking 2nd globally by revenue. Strong order volume (8.3K) helped offset a slightly below-average AOV of $251.
+Europe, Middle East, and Africa contributed 29% of global revenue at $8.2M, making it the second-highest performing region. It  brought in 31.8K orders at an AOV of $259. Unlike NA, total sales for EMEA was widely distributed across 15+ countries. Leading countries included:  
+- **Great Britain** was the regional leader at $2.09M or 25% of EMEA sales. It also ranking 2nd globally by revenue. 
 - **Germany** posted a higher AOV at $270, with 3.6K orders generating $994K (4% global revenue).
-- **France, Spain, and the Netherlands** each contributed 2% of global revenue, though Spain’s AOV of $223 was notably low. The Netherlands stood out with the highest regional AOV ($289) despite modest volume.
+- **France, Spain, and the Netherlands** each contributed about 2% of global revenue each, Though Spain’s AOV of $223 was notably low, the Netherlands stood out with the highest regional AOV ($289) despite modest volume.
 
-EMEA offers geographic diversity and consistent performance, with opportunities to optimize AOV in high-volume markets.
+EMEA offers geographic diversity and consistent performance, with opportunities to optimize AOV in high-volume markets.  
 
 **APAC | $3.6M (13% of global revenue)**  
-Although APAC trailed in order volume (13.1K orders), it led all regions in AOV at $279 — 7% above global average.
+Although Asia and Pacific trailed in order volume (13.1K orders), it led all regions in AOV at $279 — 7% above global average. Countries of particular interest included:
 - **Japan** generated $1M from just 2.6K orders, with a standout AOV of $393, the highest globally.
-- **Australia** matched Japan’s revenue ($975K) via higher volume (4.8K orders) but lower AOV ($204), ranking 6th globally by revenue.
-  
-APAC’s premium AOV and performance in Japan indicate high-margin growth potential, especially if order volume scales.
+- **Australia** came close to matching Japan’s revenue ($975K) via higher volume (4.8K orders) but lower AOV ($204), ranking 6th globally by revenue.
+- **India and Korea** made up about about 9% of regional sales each at $342.1K and $332.1K, respectively - or 1% of global revenue each. Despite their modest order counts of 1.2K and 987 orders, respectively, both stood out for their higher than AOVs ($296 and $336, respectively).
+
+APAC’s premium AOV and performance in countries like Japan, India and Korea indicate high-margin growth potential, especially if order volume scales.
 
 **LATAM | $1.6M (6% of global revenue)**  
-LATAM was the lowest-performing region due to the lowest AOV ($231) and downward AOV trends post-2020, with >20% YoY drops in 2021–2022.
-- **Brazil** was the only LATAM country among the global top 10, generating $730K (3%) with 2.9K orders and a slightly below-average AOV of $251.
+Latin America was the lowest-performing region due to a low AOV ($231) and modest total order volume (7.3K orders). The LATAM region experienced downward AOV trends post-2020, with over -20% YoY drops in both 2021 and 2022.
+- **Brazil** was the only LATAM country to make the list of top 10 countries in terms of total revenue contributing , generating $730K (3% of global revenue) at 2.9K orders and a slightly below-average AOV of $251.
 
 Without a clear path to AOV recovery, LATAM poses limited ROI, though Brazil may warrant targeted efforts.
--->
 
-TechHub’s global sales were heavily concentrated in NA and EMEA regions, which together generated 81% of total revenue ($22.8M combined) across 87.6K orders. Both regions posted AOVs around $260. APAC merged as a promising growth market with the highest regional AOV and early traction in a key country, while LATAM lagged behind due to sustained AOV declines and lower order volume. 
-
-**Across all regions, just 10 countries accounted for 78% of global revenue** at $21.8M — the United States (47%), Great Britain (7%), Canada (4%), Japan (4%), Germany (4%), Australia (3%), Brazil (3%), France (2%), Spain (2%), and the Netherlands (2%) — highlighting key markets for continued investment. These countries are analyzed in more detail below, under their corresponding regions.
-
-![ ](Images/regional%20distribution.png)
-
-
-**NA | $14.6M (52% of global revenue)**  
-North America led global performance with $14.6M in revenue and 52% of global orders (55.8K). Almost all regional revenue came from just two countries:
-  - **United States:** The largest revenue generator across all countries, contributing 47% of total global revenue at $13.2M (91% of regional sales), with an AOV of $262 and strong order volume of 50.6K. 
-  - **Canada:** Brought in 8% of total regional sales at $1.1M (4% of global revenue).  Despite having a lower than average AOV at $247, it still managed to perform well, bringing in 4% of total regional orders (4.8K).    
-
-
-**EMEA | $8.2M (29% of global revenue)**  
-Europe, Middle East, and Africa contributed 29% of global revenue at $8.2M, making it the second-highest performing region. It  brought in 31.8K orders at an AOV of $259. Unlike NA, total sales for EMEA were widely distributed across 15+ countries. Leading countries included: 
-  - **Great Britain:** Great Britain led regional sales at $2.09M or 25% of EMEA sales. It also was the second-highest performing country globally, contributing 8% of global revenue. Britain offered scale in order volume (8.3K) despite slightly weaker AOV ($251).
-  - **Germany:** Germany contributed 12% of EMEA total revenue and 4% of global revenue at $994K. It stood out for its above-average AOV ($270), bringing in 3.6K total orders.
-  - **France**: France brought in 8% of regional orders and 2% of global orders at $635.6K in total sales. It had 2.6K total orders at a below average AOV of $246. 
-  - **Spain**: Spain earned $474.8K in total revenue - 6% of regional sales and 2% of global revenue - with 2.1K total orders and a below average AOV at $223.
-  - **Netherlands:** The Netherlands delivered an even stronger $289 AOV on more modest order volume of 1.6K orders. It brought in 2% of global sales and 6% of regional sales at $458K. 
-
-**APAC | $3.6M (13% of global revenue)**    
-Asia and Pacific accounted for $3.6M in revenue (13%), but posted the highest regional AOV at $279—7% above the global average. Though order volume was lower overall (13.1K), several countries showed high revenue potential if scaled. A few countries of interest in APAC were:
-  - **Japan**: Japan generated $1M in revenue with a standout AOV of $393 — 51% above the global average — despite contributing only 2.6K orders. It brought in 20% of regional order volume was the fourth highest earning country at 4% of global sales.
-  - **Australia:** Australia contributed a similar percentage of regional sales as Japan at 27%, delivering $975K in total revenue. Australia had significantly lower AOV ($204) but with almost double the order volume (4.8K). This combination allowed it to also make a substantial contribution to total regional sales. Globally, it was the 6th highest earning country at 3% of global sales.
-
-**LATAM | $1.6M (6% of global revenue)**  
- Latin America was the lowest performing region at $1.67M in revenue or 6% of global sales. This was largely due to it having the lowest AOV across all regions at $231 (11% below global avg), due to a declining trend in AOV post-2020, with greater than 20% year-over-year AOV drops for 2021 and 2022. Without a clear path to reverse AOV erosion, LATAM currently offers limited return on investment, however a few countries of note include:
-  - **Brazil** - Brazil was the only LATAM country to be among the top countries to provide highest total revenue to TechHub ranking 7th at 3% in global sales ($730K) despite it's slightly lower slightly lower than average AOV ($251). It also contributed 40% of total LATAM order volume at 2.9K orders. 
 <!--
 From 2019 to 2022, NA and EMEA regions led TechHub’s global sales, contributing a combined 81% of total revenue or ~$22.8M, driven largely by high order volumes at ~87.6K total orders. Both had relatively average regional aovs at $261 and $259, respectively. Meanwhile, the APAC region accounted for 13% of total revenue or ~$3.6M and the LATAM region for only 6% at $~1.67M. Though smaller in contribution in total sales, APAC in particular offers promise for revenue generation. Together, 10 individual countries accounted for 78% of total sales (~$21.8M out of ~$28.1M) (the United States, Great Britian, Canada, Japan, Germany, Australia, Brazil, France, Spain and the Netherlands, respectively.
 
