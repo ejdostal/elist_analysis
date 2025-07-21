@@ -110,12 +110,12 @@ TechHub’s sales performance from October through March followed a consistent a
 - [x] Explain findings in detail, highlighting key trends, anomalies / outliers, and comparisons
 - [x] Include clean visuals (pivot tables, dashboards, graphs)
 -->
-![](Images/product%20distribution.png)
-
 
 Between 2019 and 2022, just 4 products generated the vast majority — 96% — of total revenue, highlighting a highly concentrated revenue stream. In contrast, the remaining four products combined contributed just 4% of revenue, though they revealed interesting dynamics worth further consideration.
 
-#### 4 Top Performers | $27.1M 
+![](Images/product%20distribution.png)
+
+#### Top Products | $27.1M 
 
 1. **27in 4K Gaming Monitor | $9.85M**  
 Leading the pack was the 27” 4K Gaming Monitor, which stood out as both a bestseller and a high-value item. With an average order value (AOV) of $421 and 23,000 units sold, it brought in roughly $9.8 million, accounting for 35% of total revenue. This product’s balance of volume and price made it the company’s most valuable contributor over the four-year period.
@@ -130,7 +130,7 @@ Though the MacBook Air Laptop represented only 4% of total orders, its premium p
 Similarly, the ThinkPad Laptop, with an AOV of $1,100, contributed $3.2 million (11% of total revenue) from a small base of just under 3,000 orders. Its sales trajectory mirrored that of the MacBook, with a sharp spike in 2020 and a standout 92% growth in December 2020. ThinkPad sales a;also showed a clear pattern of year-end peaks, suggesting strong seasonal appeal — potentially linked to holiday gift-giving or end-of-year corporate purchases.
 
 
-#### Less Impactful | $1M
+#### Less Impactful Products | $1M
 
 5. **Samsung Charging Cable Pack | $442K**   
 The Samsung Charging Cable Pack proved surprisingly popular, making up 20% of all orders - although with a low price tag ($20 AOV). While it generated just 2% of total revenue, its high volume suggests it might have some strategic potential. For example, bundling it with other items could be an effective strategy to increase cart size and elevate overall revenue contribution.
@@ -150,10 +150,11 @@ Lastly, the Bose Soundsport Headphones underperformed significantly, generating 
 - [ ] Explain findings in detail, highlighting key trends, anomalies / outliers, and comparisons
 - [ ] Include clean visuals (pivot tables, dashboards, graphs)
 -->
-![ ](Images/regional%20distribution.png)
-![ ](Images/top%2010%20countries.png)
+
 
 TechHub’s global sales were heavily concentrated in NA and EMEA regions, which together generated 81% of total revenue ($22.8M combined) across 87.6K orders. Both regions posted AOVs around $260. APAC merged as a promising growth market with the highest regional AOV and early traction in a key country, while LATAM lagged behind due to sustained AOV declines and lower order volume. 
+
+![ ](Images/regional%20distribution.png)
 
 **NA | $14.6M (52% of global revenue)**  
 North America led global performance with $14.6M in revenue and 52% of global orders (55.8K). Almost all regional revenue came from just two countries:
@@ -180,6 +181,7 @@ Asia and Pacific accounted for $3.6M in revenue (13%), but posted the highest re
   - **Brazil** - The LATAM country Brazil actually ranked 7th globally at 3% in total sales ($730K) despite it's slightly lower slightly higher AOV ($251). It contributed 40% of total LATAM order volume at 2.9K orders. This country may still offer some return on investment
   - **Mexico** - Mexico, in contrast, posted extremely low AOV ($168) and brought in about half the orders of Brazil at 23% of total regional orders or 1.6K. Nonethetheless it still represented 16% of LATAM revenue. It showed a much lower indicating a poor return on existing order volume.  
 
+![ ](Images/top%2010%20countries.png)
 
 **Across all regions, just 10 countries accounted for 78% of global revenue** at $21.8M — the United States (47%), Great Britain (7%), Canada (4%), Japan (4%), Germany (4%), Australia (3%), Brazil (3%), France (2%), Spain (2%), and the Netherlands (2%) — highlighting key markets for continued investment.
 
@@ -342,12 +344,12 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 - Missing country records were excluded from global distribution analysis.
 
 - Missing and nonsensical order dates were excluded from overall sales trends analysis.
-
+<!--
 - It is assumed that 2022 refund data is incomplete or inaccurate, as it's highly unlikely that no refunds were recorded for any products throughout the entire year.
 
-<!--
+
 ⚠️ Caveats
 This analysis assumes that order and refund data is complete and accurate. For products like the Bose headphones, inconsistent data makes it difficult to tell whether performance issues are real or due to tracking errors. Likewise, the relatively small number of returns tracked for the Apple iPhone limits our ability to confidently assess product quality or customer sentiment. Additionally, external events like COVID-19 and the global chip shortage played a major role in shaping purchasing behavior—especially in 2020—so not all trends are likely to continue post-pandemic.
--->
 
-*One exception to this trend in increased AOV was December 2019, when AOV declined by -7%, diverging from typical seasonal behavior—possibly due to early pandemic uncertainty that affected consumer confidence and purchasing patterns.
+
+*One exception to this trend in increased AOV was December 2019, when AOV declined by -7%, diverging from typical seasonal behavior—possibly due to early pandemic uncertainty that affected consumer confidence and purchasing patterns.-->
