@@ -93,14 +93,13 @@ TechHub’s sales performance from October through March followed a consistent a
 
 ![ ](Images/Seasonality%20-%20across%20all%204%20years.png)
 
-- **October** - The cycle typically began with a sharp decline in October— averaging a -28% decrease in sales growth and -29% decrease in order growth, the lowest average sales of any month — suggesting that consumers tend to deliberately hold back spending ahead the holiday season.
+- **Pre-Holiday Pullback** - The cycle typically began with a sharp decline in October— averaging a -28% decrease in sales growth and -29% decrease in order growth, the lowest average sales of any month — suggesting that consumers tend to deliberately hold back spending ahead the holiday season.
 
-- **November, December** - This dip was consistently followed by a two-month surge in November and December, with November showing highest average order growth (+24%) and December delivering highest average sales growth (+23%), typically supported by modest average AOV gains (+2%).* These patterns point to a shift from high-volume purchases in November to higher total spend in December, likely driven by last-minute, higher-value gifts.
+- **Holiday Growth** - The October dip was consistently followed by a two-month surge in November and December, with November showing highest average order growth (+24%) and December delivering highest average sales growth (+23%), typically supported by modest average AOV gains (+2%).* These patterns point to a shift from high-volume purchases in November to higher total spend in December, likely driven by last-minute, higher-value gifts.
 
+- **Post-Holiday Slowdown** - January and February typically saw a post-holiday downturn in both sales and order growth, consistent with seasonal fatigue and reduced demand. 
 
-- **January, February** - January and February typically saw a post-holiday downturn in both sales and order growth, consistent with seasonal fatigue and reduced demand. 
-
-- **March** - March generally marked the beginning of recovery, with sales trends gradually rebounding. However, 2020 disrupted this pattern entirely:
+- **Gradual Sales Recovery** - March generally marked the beginning of recovery, with sales trends gradually rebounding. However, 2020 disrupted this pattern entirely:
   - January 2020 saw flat sales growth (0%), 
   - February 2020 posted a 4% increase, and 
   - March 2020 experienced a 50% surge, the highest monthly sales growth across all four years, driven by the initial pandemic wave and a rapid pivot to online purchasing.
@@ -118,32 +117,32 @@ Between 2019 and 2022, just 4 products generated the vast majority — 96% — o
 
 #### Top Products | $27.1M 
 
-1. **27in 4K Gaming Monitor | $9.85M**  
-Leading the pack was the 27” 4K Gaming Monitor, which stood out as both a bestseller and a high-value item. With an average order value (AOV) of $421 and 23,000 units sold, it brought in roughly $9.8 million, accounting for 35% of total revenue. This product’s balance of volume and price made it the company’s most valuable contributor over the four-year period.
+1. **27in 4K Gaming Monitor | Bestseller + High AOV Combo**  
+Leading the pack was the 27” 4K Gaming Monitor, which stood out as both a bestseller and a high-value item. With an average order value (AOV) of $421 and 23K units sold, it brought in roughly $9.85M, accounting for 35% of total revenue. This product’s balance of volume and price made it the company’s most valuable contributor over the four-year period.
 
-2. **Apple AirPods Headphones | $7.73M**  
-Closely behind, the Apple AirPods Headphones emerged as the most popular product by volume. With nearly 48,000 units sold—almost half of all orders—it earned $7.7 million or 28% of revenue. Despite its lower price point compared to laptops, its widespread popularity positioned it as a reliable driver of sales.
+1. **Apple AirPods Headphones | Most Popular Product**
+Closely behind, the Apple AirPods Headphones emerged as the most popular product by volume. With nearly 48K units sold — almost half of all orders — it earned $7.73M or 28% of revenue. Despite its lower price point compared to laptops, its widespread popularity positioned it as a reliable driver of sales.
 
-3. **MacBook Air Laptop | $6.29M**  
-Though the MacBook Air Laptop represented only 4% of total orders, its premium price tag ($1,588 AOV) made it significant in terms of revenue, generating $6.2 million, or 22% of total revenue. Its performance peaked in 2020, with a staggering 384% increase in annual sales, possibly fueled by the sudden shift to remote work and learning. March 2020 saw its highest monthly growth of any month throughout the entire 2019-2022 period, reaching 66%, aligning with when many schools closed and shifted to remote learning - in addition to many in-store tech purchasing options closing.
+1. **MacBook Air Laptop | Highest AOV**
+Though the MacBook Air Laptop represented only 4% of total orders, its premium price tag ($1,588 AOV) made it significant in terms of revenue, generating $6.29M, or 22% of total revenue. Its performance peaked in 2020, with a staggering 384% increase in annual sales, possibly fueled by the sudden shift to remote work and learning. March 2020 saw highest monthly growth for Macbook Airs at 66%, aligning with when many schools closed and shifted to remote learning as well as many in-store tech purchasing options closing.
 
-4. **ThinkPad Laptop | $3.20M**  
-Similarly, the ThinkPad Laptop, with an AOV of $1,100, contributed $3.2 million (11% of total revenue) from a small base of just under 3,000 orders. Its sales trajectory mirrored that of the MacBook, with a sharp spike in 2020 and a standout 92% growth in December 2020. ThinkPad sales a;also showed a clear pattern of year-end peaks, suggesting strong seasonal appeal — potentially linked to holiday gift-giving or end-of-year corporate purchases.
+1. **ThinkPad Laptop | Second Highest AOV + Seasonal Demand**
+Similarly, the ThinkPad Laptop, with an AOV of $1,100, contributed $3.2M (11% of total revenue) from a small base of just under 3K orders. Its sales trajectory also had a sharp spike in 2020, as well as standout 92% growth in December 2020. ThinkPad sales showed a clear pattern of year-end peaks, suggesting strong seasonal appeal — potentially linked to holiday gift-giving or end-of-year corporate purchases. 
 
 
 #### Less Impactful | $1M
 
-5. **Samsung Charging Cable Pack | $442K**   
-The Samsung Charging Cable Pack proved surprisingly popular, making up 20% of all orders - although with a low price tag ($20 AOV). While it generated just 2% of total revenue, its high volume suggests it might have some strategic potential. For example, bundling it with other items could be an effective strategy to increase cart size and elevate overall revenue contribution.
+5. **Samsung Charging Cable Pack | Low AOV but Popular**  
+The Samsung Charging Cable Pack proved surprisingly popular, making up 20% of all orders - although with a low price tag ($20 AOV). While it generated just 2% of total revenue at $442K, its high volume suggests it might have some strategic potential. For example, bundling it with other items could be an effective strategy to increase cart size and elevate overall revenue contribution.
 
-6. **Samsung Webcam | $361K**  
-The Samsung Webcam, launched in 2020, gained traction quickly, accounting for 7% of all orders — a strong showing for a latecomer to the product line. Its growth also aligns with the rise of virtual learning and remote work, again highlighting how external events shaped consumer behavior.
+6. **Samsung Webcam | Latecomer with Promise**  
+The Samsung Webcam, launched in 2020, gained traction quickly, accounting for 7% of all orders — a strong showing for a latecomer to the product line. Its growth also aligns with the rise of virtual learning and remote work, again highlighting how external events shaped consumer behavior.It contributed a total of $361K in revenue.
 
-7. **Apple iPhone | $213K**   
-Surprisingly, the flagship item Apple iPhone saw weak sales. With just 288 total units sold across four years and average monthly sales hovering around six units, the iPhone failed to gain traction with the customer base. Given the low demand, it may be worth either surveying customers or reallocating resources toward better-performing premium products.
+7. **Apple iPhone | High AOV and Disappointing Sales**   
+Surprisingly, the flagship item Apple iPhone saw weak sales at just $213K in total revenue. With just 288 total units sold across four years and average monthly sales hovering around six units, the iPhone failed to gain traction with the customer base. Given the low demand, it may be worth either surveying customers or reallocating resources toward better-performing premium products.
 
-8. **Bose Soundsport Headphones | $3.3K**  
-Lastly, the Bose Soundsport Headphones underperformed significantly, generating just $3K in total revenue—a mere 0.01% of the four-year total. Order activity was sporadic and absent in many months, making it difficult to distinguish between genuinely low demand and possible data issues. While further investigation into the data pipeline is warranted, current trends suggest the product failed to resonate with TechHub’s customer base and may no longer justify continued support or inventory space.
+1. **Bose Soundsport Headphones | Low AOV and Disappointing Sales**  
+Lastly, the Bose Soundsport Headphones underperformed significantly, generating just $3.3K in total revenue—a mere 0.01% of the four-year total. Order activity was sporadic and absent in many months, making it difficult to distinguish between genuinely low demand and possible data issues. While further investigation into the data pipeline is warranted, current trends suggest the product failed to resonate with TechHub’s customer base and may no longer justify continued support or inventory space.
 
 ### Geographical Distribution
 <!--
@@ -157,24 +156,24 @@ Lastly, the Bose Soundsport Headphones underperformed significantly, generating 
 
 **Across all regions, just 10 countries accounted for 78% of global revenue ($21.8M)**, highlighting priority markets for investment. These countries - in addition to a few other noteable countries - were analyzed in more detail below, listed under their corresponding regions.
 
-**North America (NA) - Revenue Concentrated in 2 Countries** - NA was TechHub’s strongest region by far, delivering over half of global revenue and orders at $14.6M and 55.8K orders, respectively. Two countries within the NA region accounted for almost all of its sales:
+**North America (NA) | Revenue Concentrated in 2 Countries** - NA was TechHub’s strongest region by far, delivering over half of global revenue and orders at $14.6M and 55.8K orders, respectively. Two countries within the NA region accounted for almost all of its sales:
 - **United States** led all countries, generating $13.2M (47% global revenue) from 50.6K orders with an AOV of $262. It made up 91% of North American sales.
 - **Canada** contributed $1.1M (4% global revenue), with a slightly lower AOV of $247, but still represented a strong secondary market with 4.8K orders.  
 - North America's concentration in two markets with reliable volume and stable AOVs makes it central to future revenue stability.  
 
-**Europe, Middle East, and Africa (EMEA) - Revenue Widely Distributed across 15+ Countries** - EMEA contributed 29% of global revenue at $8.2M, making it the second-highest performing region. It  brought in 31.8K orders at an AOV of $259. Unlike NA, total sales for EMEA was widely distributed across 15+ countries. Leading countries included:  
+**Europe, Middle East, and Africa (EMEA) | Revenue Widely Distributed across 15+ Countries** - EMEA contributed 29% of global revenue at $8.2M, making it the second-highest performing region. It  brought in 31.8K orders at an AOV of $259. Unlike NA, total sales for EMEA was widely distributed across 15+ countries. Leading countries included:  
 - **Great Britain** was the regional leader at $2.09M or 25% of EMEA sales. It also ranking 2nd globally by revenue. 
 - **Germany** posted a higher AOV at $270, with 3.6K orders generating $994K (4% global revenue).
 - **France, Spain, and the Netherlands** each contributed about 2% of global revenue each, Though Spain’s AOV of $223 was notably low, the Netherlands stood out with the highest regional AOV ($289) despite modest volume.
 - EMEA offers geographic diversity and consistent performance, with opportunities to optimize AOV in high-volume markets.  
 
-**Asia and Pacific (APAC) - Highest AOV and Greatest Growth** - Collectively, the APAC region contributed 13% of global revenue at $3.6M. Although APAC trailed behind NA and EMEA regions in total order volume (13.1K orders), it led all regions in highest AOV at $279 - 7% above the global average. It also sustained the highest sales growth (32%) and highest aov growth (18%) post-pandemic. Countries of particular interest in APAC include:
+**Asia and Pacific (APAC) | Highest AOV and Greatest Growth** - Collectively, the APAC region contributed 13% of global revenue at $3.6M. Although APAC trailed behind NA and EMEA regions in total order volume (13.1K orders), it led all regions in highest AOV at $279 - 7% above the global average. It also sustained the highest sales growth (32%) and highest aov growth (18%) post-pandemic. Countries of particular interest in APAC include:
 - **Japan** generated $1M from just 2.6K orders, with a standout AOV of $393, the highest globally.
 - **Australia** came close to matching Japan’s revenue ($975K) via higher volume (4.8K orders) but lower AOV ($204), ranking 6th globally by revenue.  
 - **India and Korea** made up about about 9% of regional sales each at $342.1K and $332.1K, respectively - or 1% of global revenue each. Despite their modest order counts of 1.2K and 987 orders, respectively, both stood out for their higher than AOVs ($296 and $336, respectively).
 - APAC’s premium AOV and performance in countries like Japan, India and Korea indicate high-margin growth potential, especially if order volume scales.
 
-**Latin America  (LATAM) - Lowest AOV and Greatest Declines** - LATAM was the lowest-performing of all regions - contibuting a total of $1.6M (6% of global revenue) and a modest total order volume of 7.3K orders. It averaged lowest overall AOV at $231 (-11% below average) due to a significant downward AOV trend post-2020.
+**Latin America (LATAM) | Lowest AOV and Greatest Declines** - LATAM was the lowest-performing of all regions - contibuting a total of $1.6M (6% of global revenue) and a modest total order volume of 7.3K orders. It averaged lowest overall AOV at $231 (-11% below average) due to a significant downward AOV trend post-2020.
 - **Brazil** was the only LATAM country to make the list of top 10 revenue generating countries - ranking #7 at a total revenue $730K (3% of global revenue). It brought in a total of 2.9K orders at a slightly below-average AOV of $251 made up 44% of LATAM's sales.
 - Without a clear path to AOV recovery, LATAM poses limited ROI, though Brazil may warrant targeted efforts.
 
