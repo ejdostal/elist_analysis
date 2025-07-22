@@ -157,34 +157,26 @@ Across all regions, just 10 countries accounted for 78% of global revenue ($21.8
 ![ ](Images/regional%20distribution.png)
 ![ ](Images/top%2010%20countries.png)
 
-**North America | $14.6M (52% of global revenue)**  
-NA was TechHub’s strongest region by far, delivering over half of global revenue and orders. Two countries within the NA region accounted for almost all of its sales.
-- **United States** led all countries, generating $13.2M (47% global revenue) from 50.6K orders with an AOV of $262. It made up 91% of North American sales.
-- **Canada** contributed $1.1M (4% global revenue), with a slightly lower AOV of $247, but still represented a strong secondary market with 4.8K orders.  
+**NA | $14.6M (52% of global revenue)** - North America was TechHub’s strongest region by far, delivering over half of global revenue and orders. Two countries within the NA region accounted for almost all of its sales.
+- United States led all countries, generating $13.2M (47% global revenue) from 50.6K orders with an AOV of $262. It made up 91% of North American sales.
+- Canada contributed $1.1M (4% global revenue), with a slightly lower AOV of $247, but still represented a strong secondary market with 4.8K orders.  
+- North America's concentration in two markets with reliable volume and stable AOVs makes it central to future revenue stability.  
 
-North America's concentration in two markets with reliable volume and stable AOVs makes it central to future revenue stability.  
+**EMEA | $8.2M (29% of revenue)** - Europe, Middle East, and Africa contributed 29% of global revenue at $8.2M, making it the second-highest performing region. It  brought in 31.8K orders at an AOV of $259. Unlike NA, total sales for EMEA was widely distributed across 15+ countries. Leading countries included:  
+- Great Britain was the regional leader at $2.09M or 25% of EMEA sales. It also ranking 2nd globally by revenue. 
+- Germany posted a higher AOV at $270, with 3.6K orders generating $994K (4% global revenue).
+- France, Spain, and the Netherlands each contributed about 2% of global revenue each, Though Spain’s AOV of $223 was notably low, the Netherlands stood out with the highest regional AOV ($289) despite modest volume.
+- EMEA offers geographic diversity and consistent performance, with opportunities to optimize AOV in high-volume markets.  
 
-**EMEA | $8.2M (29% of global revenue)**  
-Europe, Middle East, and Africa contributed 29% of global revenue at $8.2M, making it the second-highest performing region. It  brought in 31.8K orders at an AOV of $259. Unlike NA, total sales for EMEA was widely distributed across 15+ countries. Leading countries included:  
-- **Great Britain** was the regional leader at $2.09M or 25% of EMEA sales. It also ranking 2nd globally by revenue. 
-- **Germany** posted a higher AOV at $270, with 3.6K orders generating $994K (4% global revenue).
-- **France, Spain, and the Netherlands** each contributed about 2% of global revenue each, Though Spain’s AOV of $223 was notably low, the Netherlands stood out with the highest regional AOV ($289) despite modest volume.
+**APAC | $3.6M (13% of revenue)** - Although Asia and Pacific trailed in order volume (13.1K orders), it led all regions in AOV at $279 — 7% above global average. Countries of particular interest included:
+- Japan generated $1M from just 2.6K orders, with a standout AOV of $393, the highest globally.
+- Australia came close to matching Japan’s revenue ($975K) via higher volume (4.8K orders) but lower AOV ($204), ranking 6th globally by revenue.  
+- India and Korea made up about about 9% of regional sales each at $342.1K and $332.1K, respectively - or 1% of global revenue each. Despite their modest order counts of 1.2K and 987 orders, respectively, both stood out for their higher than AOVs ($296 and $336, respectively).
+- APAC’s premium AOV and performance in countries like Japan, India and Korea indicate high-margin growth potential, especially if order volume scales.
 
-EMEA offers geographic diversity and consistent performance, with opportunities to optimize AOV in high-volume markets.  
-
-**APAC | $3.6M (13% of global revenue)**  
-Although Asia and Pacific trailed in order volume (13.1K orders), it led all regions in AOV at $279 — 7% above global average. Countries of particular interest included:
-- **Japan** generated $1M from just 2.6K orders, with a standout AOV of $393, the highest globally.
-- **Australia** came close to matching Japan’s revenue ($975K) via higher volume (4.8K orders) but lower AOV ($204), ranking 6th globally by revenue.
-- **India and Korea** made up about about 9% of regional sales each at $342.1K and $332.1K, respectively - or 1% of global revenue each. Despite their modest order counts of 1.2K and 987 orders, respectively, both stood out for their higher than AOVs ($296 and $336, respectively).
-
-APAC’s premium AOV and performance in countries like Japan, India and Korea indicate high-margin growth potential, especially if order volume scales.
-
-**LATAM | $1.6M (6% of global revenue)**  
-Latin America was the lowest-performing region due to a low AOV ($231) and modest total order volume (7.3K orders). The LATAM region experienced downward AOV trends post-2020, with over -20% YoY drops in both 2021 and 2022.
-- **Brazil** was the only LATAM country to make the list of top 10 countries in terms of total revenue contributing , generating $730K (3% of global revenue) at 2.9K orders and a slightly below-average AOV of $251.
-
-Without a clear path to AOV recovery, LATAM poses limited ROI, though Brazil may warrant targeted efforts.
+**LATAM | $1.6M (6% of revenue)** - Latin America was the lowest-performing region due to a low AOV ($231) and modest total order volume (7.3K orders). The LATAM region experienced downward AOV trends post-2020, with over -20% YoY drops in both 2021 and 2022.
+- Brazil was the only LATAM country to make the list of top 10 countries in terms of total revenue contributing , generating $730K (3% of global revenue) at 2.9K orders and a slightly below-average AOV of $251.
+- Without a clear path to AOV recovery, LATAM poses limited ROI, though Brazil may warrant targeted efforts.
 
 ### Loyalty Performance Overview (2019–2022)
 <!--
@@ -194,34 +186,34 @@ Without a clear path to AOV recovery, LATAM poses limited ROI, though Brazil may
 
 ![](Images/Loyalty%20program.png)
 
-From 2019 to 2022, non-loyalty customers cumulatively outperformed loyalty members across all key metrics—generating $17.1M in total revenue from 62.4K orders, with an overall AOV of $275. On average, that’s $4.3M in annual sales, 15.6K orders, and an AOV of $263 per year. However, loyalty customers stood out for their more consistent year-over-year growth and greater spending stability. By 2021, they overtook non-loyalty customers in annual revenue and order volume, and by 2022, they also surpassed them in AOV. These trends suggest loyalty customers are becoming a high-value and resilient segment, particularly in a post-pandemic market.By the end of 2022, loyalty customers had generated a total of $11M across 45.7K orders, with an overall AOV of $240—averaging $2.7M in sales and 11.4K orders annually at a steady AOV.
+**From 2019 to 2022, Non-loyalty customers cumulatively outperformed loyalty members across all key metrics** — generating $17.1M in total revenue from 62.4K orders, with an overall AOV of $275. On average, that’s $4.3M in annual sales, 15.6K orders, and an AOV of $263 per year. 
 
-**2019 (Baseline Year)**
-- Loyalty program activity was minimal, reporting the lowest performance across all metrics: $415.9K in revenue, 2K orders, and an AOV of $207.
-- Non-loyalty dominated early performance, generating $3.5M from 14.9K orders at an AOV of $233, making it the primary revenue driver in 2019.
-- Loyalty’s low baseline likely reflects limited adoption or a new rollout, but it sets the stage for dramatic growth over the following years.
+**However, Loyalty customers stood out for their more consistent year-over-year growth and greater spending stability.** By 2021, they overtook non-loyalty customers in annual revenue and order volume, and by 2022, they also surpassed them in AOV. These trends suggest loyalty customers are becoming a high-value and resilient segment, particularly in a post-pandemic market. By the end of 2022, loyalty customers had generated a total of $11M across 45.7K orders, with an overall AOV of $240—averaging $2.7M in sales and 11.4K orders annually at a steady AOV. 
 
-**2020 (Pandemic-Driven Spike)**
-- Loyalty revenue surged 614% to $2.97M, driven by a 550% increase in orders (13K) and a 10% increase in AOV to $228.
-- Non-loyalty also saw strong growth, reaching its highest performance across all metrics: $7.2M in revenue (+108%), 20.8K orders (+40%), and an AOV of $345 (+48%).
-- While non-loyalty continued to lead in overall value, loyalty’s explosive growth highlighted early traction and increasing customer engagement.
+- **2019 (Baseline Year)**    
+Loyalty’s low baseline likely reflects limited adoption or a new rollout, but it sets the stage for dramatic growth over the following years.
+  - **Loyalty** program activity was minimal, reporting the lowest performance across all metrics: $415.9K in revenue, 2K orders, and an AOV of $207.
+  - **Non-loyalty** dominated early performance, generating $3.5M from 14.9K orders at an AOV of $233, making it the primary revenue driver in 2019.
 
-**2021 (Loyalty Momentum, Non-Loyalty Reversal)**
-- Loyalty revenue increased another 64% to $4.9M, with orders up 50% to 19.6K and AOV rising 9% to $249. This marked the first year that loyalty customers outperformed non-loyalty in both revenue and order volume.
-- In contrast, non-loyalty performance declined significantly: revenue dropped -41% to $4.3M, orders fell -22% to 16.3K, and AOV decreased -24% to $261. Despite this, non-loyalty AOV remained slightly higher than loyalty’s.
-- Loyalty accounted for 53% of total revenue and 55% of total orders in 2021, reflecting a dramatic shift in customer behavior over just two years.
+- **2020 (Pandemic-Driven Spike)**   
+While Non-loyalty continued to lead in overall value, loyalty’s explosive growth highlighted early traction and increasing customer engagement.
+  - **Loyalty** revenue surged 614% to $2.97M, driven by a 550% increase in orders (13K) and a 10% increase in AOV to $228.
+  - **Non-loyalty** also saw strong growth, reaching its highest performance across all metrics: $7.2M in revenue (+108%), 20.8K orders (+40%), and an AOV of $345 (+48%).
 
-**2022 (Post-Pandemic Market Correction)**
-- Both groups experienced sharp declines as the market adjusted post-pandemic. Loyalty revenue fell -44% to $2.7M, with order volume down -43% to 11.1K. AOV held relatively stable, decreasing just 2% to $245—now exceeding that of non-loyalty for the first time.
-- Non-loyalty revenue declined -47% to $2.2M, orders dropped -36% to 10.4K, and AOV fell more steeply by -18% to $214.
-- Loyalty outperformed non-loyalty in every key metric, maintaining its lead through the contraction and showing stronger retention in transaction value.  
+- **2021 (Loyalty Momentum, Non-Loyalty Reversal)**  
+Loyalty accounted for 53% of total revenue and 55% of total orders in 2021, reflecting a dramatic shift in customer behavior over just two years.
+  - **Loyalty** revenue increased another 64% to $4.9M, with orders up 50% to 19.6K and AOV rising 9% to $249. This marked the first year that loyalty customers outperformed non-loyalty in both revenue and order volume.
+  - **Non-loyalty** performance declined significantly: revenue dropped -41% to $4.3M, orders fell -22% to 16.3K, and AOV decreased -24% to $261. Despite this, non-loyalty AOV remained slightly higher than loyalty’s.
+
+- **2022 (Post-Pandemic Market Correction)**   
+Both groups experienced sharp declines as the market adjusted post-pandemic - but Loyalty outperformed non-loyalty in every key metric, maintaining its lead through the contraction and showing stronger retention in transaction value.   
+  - **Loyalty** revenue fell -44% to $2.7M, with order volume down -43% to 11.1K. AOV held relatively stable, decreasing just 2% to $245—now exceeding that of non-loyalty for the first time.
+  - **Non-loyalty** revenue declined -47% to $2.2M, orders dropped -36% to 10.4K, and AOV fell more steeply by -18% to $214.
+
 
 ![](Images/loyalty%20aov.png)
 
-
-Loyalty customers demonstrated rapid early growth followed by more stable, sustained performance—particularly in preserving AOV during periods of market volatility. In contrast, non-loyalty customers were more sensitive to external shifts, showing sharper declines in both transaction value and purchase volume.
-
-The loyalty program appears to have helped buffer overall business performance during the post-pandemic downturn. Ongoing monitoring is recommended to determine whether these trends persist, as loyalty customers may represent a reliable source of long-term revenue growth. To fully evaluate the program’s strategic value, it will be important to assess its cost-effectiveness after 2022 and conduct deeper analysis into overall participation and repeat behavior to better quantify customer retention.
+**Loyalty customers demonstrated rapid early growth followed by more stable, sustained performance** — particularly in preserving AOV during periods of market volatility. In contrast, non-loyalty customers were more sensitive to external shifts, showing sharper declines in both transaction value and purchase volume. The Loyalty program appears to have helped buffer overall business performance during the post-pandemic downturn. 
 
 <!--
 ### Refund Rates - Apple vs Other Brands
@@ -244,8 +236,6 @@ If the data is complete, refund trends could reflect external factors, such as C
 - [ ] Explain findings in detail, highlighting key trends, anomalies / outliers, and comparisons
 - [ ] Include clean visuals (pivot tables, dashboards, graphs)
 
-
-
 - MacBook Air Laptops showed the highest refund rate in 2019 at 18% (67 refunds) maintaining a similarly concerning trend in 2020 at a refund rate of 17% (311 returns). In 2021, however, this decreased to more reasonable level of 6% (75 refunds). While earlier trends may reflect pandemic-era supply chain disruptions or quality issues relating the global chip shortage around that time, further validation is needed to ensure data completeness before drawing definitive conclusions. The issue surrounding data integrity is concerning too because the change in trend occurs the right before all refunds data goes missing in 2022. All products experience decreases in their overall refund rates around mid 2021, which could be a result of the global chip shortage resolving itself or it could show a potential progression of losing refunds data over time before it completely disappears in 2022. With the highest aov of any product, it'd worth checking for any product quality issues potentially behind returns and assessing data quality issues. MacBook Air consistently had the highest refund rates among Apple products. Given its high average order value (AOV) and substantial revenue contribution, it’s recommended to confirm that data integrity is intact and to monitor for potential product quality concerns that could impact revenue. 
 
 - Apple iPhones had a return rate of 11% in 2019 (5 out of 45 orders).
@@ -256,7 +246,6 @@ Again, higher than average return rates in 2019 and 2020. Chip shortage may expl
 Very few Apple iPhones were purchased in general. Customer feedback and would need to be collected and analyzed to determine if refunds were a quality issue vs. a general issue of product unpopularity.
 While refund rates for iPhones were notable, overall sales volume was low, which limits the conclusions we can draw about product quality or customer satisfaction.
 
-
 - Apple Airpods Headphones had a return rate of 6% in 2019 (473 out of 8,163 orders).
 Return rate rose to 10% in 2020 (1,529 out of 15,998 orders).
 Decreased to 4% in 2021 (634 out of 15,255 orders)
@@ -266,23 +255,14 @@ Airpods had a higher than average return rate in 2020 (10%). Potentially due to 
 
 2020 - Apple products experienced the highest refund rates in 2020, peaking at 10%, with no recorded refunds in 2022. The sharp decline in 2021 and the complete disappearance of refunds in 2022 potential issues with data integrity and should be validated with the Payments team. 
 
-
 Decreased to 6% in 2021 (75 out of 1,185 orders)
 Down to 0% in 2022 (0 out of 568 orders)
 Higher than average return rates in 2019 and 2020. Chip shortage may explain high return rates in 2020, but not 2019. 
-
-
-
-
-
-
 
 From 2020 - 2023, Apple refunds 
 
 Including 2022 (and its lack of refunds) Apple refund rates averaged 10% - which is still above the typical e-commerce return rate for electronics. Limiting the scope to just 2020 - 2023, shows an even higher average return rate at 13%.
 AirPods refunds peaked in 2020, following a similar decline as other Apple products in 2021 and disappearing in 2022.
-
-
 
 -the MacBook Air had the highest average refund rate at 11%, with particularly high rates in 2019 and 2020 (18% and 17%, respectively), suggesting a need to monitor product quality given its high AOV. 
 - iPhones followed with an 8% average refund rate, though their low sales volume limits insight. 
@@ -294,15 +274,11 @@ AirPods refunds peaked in 2020, following a similar decline as other Apple produ
 2021: 4% (75/1185 orders)
 2022: 0% (Potential data issue)
 
-
-
-
 **Apple iPhones | 8% Average refund rate**  
 2019: 11% (5/46 orders)
 2020: 11% (13/213 orders)
 2021: 5% (4/76 orders)
 2022: 0% (Potential data issue)
-
 
 **Apple AirPods Headphones | 5% Average Refund Rate**  
 2019: 6% (545/8575 orders)
@@ -310,20 +286,10 @@ AirPods refunds peaked in 2020, following a similar decline as other Apple produ
 2021: 4% (634/15255 orders)
 2022: 0% (Potential data issue)
 
-
-
-
 The [average e-commerce return rate for electronics](https://www.richpanel.com/blog/ecommerce-return-rates) is 8.28%. A
-
-
 
 -- Apple Airpods Headphones are the most popular product by order count across all regions
 -- North America had the highest number of Airpod purchases (18.5K)
-
-
-
-
-
 ⚠️ Caveats
 This analysis assumes that order and refund data is complete and accurate. For products like the Bose headphones, inconsistent data makes it difficult to tell whether performance issues are real or due to tracking errors. Likewise, the relatively small number of returns tracked for the Apple iPhone limits our ability to confidently assess product quality or customer sentiment. 
 
@@ -332,16 +298,17 @@ Additionally, external events like COVID-19 and the global chip shortage played 
 -->
 
 ## Recommendations
-To support long-term growth and build on post-pandemic order patterns, the following actions are recommended to company teams:
+To support long-term growth and build on post-pandemic order patterns, the following actions are recommended to the following company teams:
 
-#### Finance
+#### Finance Team
 - **Evaluate the loyalty program’s cost-efficiency.** 
   While Loyalty customers demonstrated higher resilience during the post-pandemic downturn, the program's net impact remains unclear without visibility into associated costs. Evaluate the loyalty program’s costs relative to its returns — particularly in the post-pandemic period to understand its true impact.
-
+<!-- 
 - **Audit and recover missing refund data to support product-level decision-making.**   
 The absence of 2022 refund records limits visibility into return behavior, particularly for high-AOV items like MacBook Airs. Partnership with the payments and/or data engineering teams to investigate data gaps and uncover root causes will support more accurate product performance analysis.
+-->
 
-#### Sales
+#### Sales Team
 - **Prioritize high-performing regions to sustain growth.**  
 NA and EMEA contributed 81% of total revenue, driven by consistently high order volume. Prioritization of these regions in future growth plans - with special focus on top-performing countries like the United States and Great Britian - is recommended to sustain the 28% revenue growth achieved since 2019. 
 
@@ -352,15 +319,15 @@ Consider promoting premium products like MacBook Airs and ThinkPads in the APAC 
 Certain EMEA markets showed both high AOV and healthy order volume. Identify and nurture underutilized high-value EMEA markets to diversify and deepen regional performance.
 
 
-#### Marketing
+#### Marketing Team
 - **Continue investing in the loyalty program, with regular monitoring.**  
 Loyalty participation grew significantly from 2019 to 2022 and early signs suggest it played a role in stabilizing post-pandemic revenue. It is recommended that loyalty trends be regularly monitored to ensure post-pandemic growth is sustained. 
 
 - **Conduct deeper analysis of loyalty performance across influencial key dimensions**   Current reporting lacks dimension-level loyalty insights (ex. by marketing channel or product line). Analyze loyalty performance across marketing channels and region to identify trends and tailor future program improvements.
 
-#### Product
-- **Explore underlying causes of elevated return rates for specific products.**  
-High-AOV products like MacBook Airs, Thinkpad Laptops and Apple iPhones had higher refund rates. Collaboration with with product and operations teams is recommended to to investigate root causes of returns (ex. leveraging repair logs, survey feedback, and return reasons) —to inform quality control and marketing. 
+#### Product Team
+<!-- - **Explore underlying causes of elevated return rates for specific products.**  
+High-AOV products like MacBook Airs, Thinkpad Laptops and Apple iPhones had higher refund rates. Collaboration with with product and operations teams is recommended to to investigate root causes of returns (ex. leveraging repair logs, survey feedback, and return reasons) —to inform quality control and marketing. -->
 
 - **Conduct deeper analysis of loyalty program's repeat customer behavior.**  
 The program’s long-term strategic value remains uncertain, especially regarding repeat behavior.
@@ -370,18 +337,19 @@ Conduct deeper analysis on loyalty participation, repeat purchase rates, and con
 ## Assumptions & Caveats
 <!--(bullets)
 - [ ] List any assumptions you made throughout the project or caveats about data issues -->
-  
+
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
 - Missing or nonsensical country records were excluded from global distribution analysis.
 - Orders with missing or invalid dates were excluded from sales trend analysis.
+<!--
 - Refund data for 2022 is assumed to be missing - given the total absence of any refund records throughout that year.
 
+ngoing monitoring is recommended to determine whether these trends persist, as loyalty customers may represent a reliable source of long-term revenue growth. To fully evaluate the program’s strategic value, it will be important to assess its cost-effectiveness after 2022 and conduct deeper analysis into overall participation and repeat behavior to better quantify customer retention.
 - Refund data limitations may understate return rates for high-AOV products like Apple devices and Bose headphones. These data gaps reduce confidence in product-specific insights.
 
 Assumption 4: Loyalty participation status is assumed to be accurate for each transaction based on available flags.
 
-
-
 *One exception to this trend in increased AOV was December 2019, when AOV declined by -7%, diverging from typical seasonal behavior—possibly due to early pandemic uncertainty that affected consumer confidence and purchasing patterns.
 
+-->
