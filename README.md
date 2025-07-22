@@ -115,22 +115,22 @@ Between 2019 and 2022, just 4 products generated the vast majority — 96% — o
 
 ![](Images/product%20distribution.png)
 
-#### Top Products | $27.1M 
+#### Top Products 
 
 1. **27in 4K Gaming Monitor | Bestseller + High AOV Combo**  
 Leading the pack was the 27” 4K Gaming Monitor, which stood out as both a bestseller and a high-value item. With an average order value (AOV) of $421 and 23K units sold, it brought in roughly $9.85M, accounting for 35% of total revenue. This product’s balance of volume and price made it the company’s most valuable contributor over the four-year period.
 
-1. **Apple AirPods Headphones | Most Popular Product**
+1. **Apple AirPods Headphones | Most Popular Product**  
 Closely behind, the Apple AirPods Headphones emerged as the most popular product by volume. With nearly 48K units sold — almost half of all orders — it earned $7.73M or 28% of revenue. Despite its lower price point compared to laptops, its widespread popularity positioned it as a reliable driver of sales.
 
-1. **MacBook Air Laptop | Highest AOV**
+1. **MacBook Air Laptop | Highest AOV**  
 Though the MacBook Air Laptop represented only 4% of total orders, its premium price tag ($1,588 AOV) made it significant in terms of revenue, generating $6.29M, or 22% of total revenue. Its performance peaked in 2020, with a staggering 384% increase in annual sales, possibly fueled by the sudden shift to remote work and learning. March 2020 saw highest monthly growth for Macbook Airs at 66%, aligning with when many schools closed and shifted to remote learning as well as many in-store tech purchasing options closing.
 
-1. **ThinkPad Laptop | Second Highest AOV + Seasonal Demand**
+1. **ThinkPad Laptop | Second Highest AOV + Seasonal Demand**  
 Similarly, the ThinkPad Laptop, with an AOV of $1,100, contributed $3.2M (11% of total revenue) from a small base of just under 3K orders. Its sales trajectory also had a sharp spike in 2020, as well as standout 92% growth in December 2020. ThinkPad sales showed a clear pattern of year-end peaks, suggesting strong seasonal appeal — potentially linked to holiday gift-giving or end-of-year corporate purchases. 
 
 
-#### Less Impactful | $1M
+#### Less Impactful
 
 5. **Samsung Charging Cable Pack | Low AOV but Popular**  
 The Samsung Charging Cable Pack proved surprisingly popular, making up 20% of all orders - although with a low price tag ($20 AOV). While it generated just 2% of total revenue at $442K, its high volume suggests it might have some strategic potential. For example, bundling it with other items could be an effective strategy to increase cart size and elevate overall revenue contribution.
@@ -190,23 +190,23 @@ From 2019 to 2022, Non-loyalty customers cumulatively outperformed loyalty membe
 **However, Loyalty customers stood out for their more consistent year-over-year growth and greater spending stability.** By 2021, they overtook non-loyalty customers in annual revenue and order volume, and by 2022, they also surpassed them in AOV. These trends suggest loyalty customers are becoming a high-value and resilient segment, particularly in a post-pandemic market. By the end of 2022, loyalty customers had generated a total of $11M across 45.7K orders, with an overall AOV of $240—averaging $2.7M in sales and 11.4K orders annually at a steady AOV. 
 
 **2019 - Minimal Loyalty Activity**    
-- Loyalty program activity was minimal, reporting the lowest performance across all metrics: $415.9K in revenue, 2K orders, and an AOV of $207.
-- Non-loyalty dominated early performance, generating $3.5M from 14.9K orders at an AOV of $233, making it the primary revenue driver in 2019.
+- **Loyalty** program activity was minimal, reporting the lowest performance across all metrics: $415.9K in revenue, 2K orders, and an AOV of $207.
+- **Non-loyalty** dominated early performance, generating $3.5M from 14.9K orders at an AOV of $233, making it the primary revenue driver in 2019.
 - Loyalty’s low baseline likely reflects limited adoption or a new rollout, but it sets the stage for dramatic growth over the following years.
 
 **2020 - Exponential Growth across Loyalty and Non-loyalty**
-- Loyalty revenue surged 614% to $2.97M, driven by a 550% increase in orders (13K) and a 10% increase in AOV to $228.
-- Non-loyalty also saw strong growth, reaching its highest performance across all metrics: $7.2M in revenue (+108%), 20.8K orders (+40%), and an AOV of $345 (+48%).
+- **Loyalty** revenue surged 614% to $2.97M, driven by a 550% increase in orders (13K) and a 10% increase in AOV to $228.
+- **Non-loyalty** also saw strong growth, reaching its highest performance across all metrics: $7.2M in revenue (+108%), 20.8K orders (+40%), and an AOV of $345 (+48%).
 - While Non-loyalty continued to lead in overall value, loyalty’s explosive growth highlighted early traction and increasing customer engagement.
 
 **2021 - Loyalty Builds Momentum, Non-Loyalty Reverses**  
-- Loyalty revenue increased another 64% to $4.9M, with orders up 50% to 19.6K and AOV rising 9% to $249. This marked the first year that loyalty customers outperformed non-loyalty in both revenue and order volume.
-- Non-loyalty performance declined significantly: revenue dropped -41% to $4.3M, orders fell -22% to 16.3K, and AOV decreased -24% to $261. Despite this, non-loyalty AOV remained slightly higher than loyalty’s.
+- **Loyalty** revenue increased another 64% to $4.9M, with orders up 50% to 19.6K and AOV rising 9% to $249. This marked the first year that loyalty customers outperformed non-loyalty in both revenue and order volume.
+- **Non-loyalty** performance declined significantly: revenue dropped -41% to $4.3M, orders fell -22% to 16.3K, and AOV decreased -24% to $261. Despite this, non-loyalty AOV remained slightly higher than loyalty’s.
 - Loyalty accounted for 53% of total revenue and 55% of total orders in 2021, reflecting a dramatic shift in customer behavior over just two years.
 
 **2022 - Both Loyalty and Non-loyalty Decline Amid Post-Pandemic**   
-- Loyalty revenue fell -44% to $2.7M, with order volume down -43% to 11.1K. AOV held relatively stable, decreasing just 2% to $245—now exceeding that of non-loyalty for the first time.
-- Non-loyalty revenue declined -47% to $2.2M, orders dropped -36% to 10.4K, and AOV fell more steeply by -18% to $214.
+- **Loyalty** revenue fell -44% to $2.7M, with order volume down -43% to 11.1K. AOV held relatively stable, decreasing just 2% to $245—now exceeding that of non-loyalty for the first time.
+- **Non-loyalty** revenue declined -47% to $2.2M, orders dropped -36% to 10.4K, and AOV fell more steeply by -18% to $214.
 - Both groups experienced sharp declines as the market adjusted post-pandemic - but Loyalty outperformed non-loyalty in every key metric, maintaining its lead through the contraction and showing stronger retention in transaction value.   
 
 Loyalty customers demonstrated rapid early growth followed by more stable, sustained performance — particularly in preserving AOV during periods of market volatility. In contrast, non-loyalty customers were more sensitive to external shifts, showing sharper declines in both transaction value and purchase volume. The Loyalty program appears to have helped buffer overall business performance during the post-pandemic downturn. 
