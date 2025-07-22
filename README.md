@@ -149,13 +149,12 @@ Lastly, the Bose Soundsport Headphones underperformed significantly, generating 
 - [ ] Explain findings in detail, highlighting key trends, anomalies / outliers, and comparisons
 - [ ] Include clean visuals (pivot tables, dashboards, graphs)
 -->
-
-From 2019 to 2022, TechHub’s global revenue was highly concentrated in NA and EMEA, which together drove 81% of total sales ($22.8M) across 87.6K orders, both maintaining AOVs near $260. Meanwhile, APAC showed early promise, outperforming all regions in AOV, while LATAM underperformed due to sustained AOV declines and lower order volume.
-
-Across all regions, just 10 countries accounted for 78% of global revenue ($21.8M), highlighting priority markets for investment. These countries - in addition to a few other noteable countries - were analyzed in more detail below, listed under their corresponding regions.
-
 ![ ](Images/regional%20distribution.png)
 ![ ](Images/top%2010%20countries.png)
+
+**From 2019 to 2022, TechHub’s global revenue was highly concentrated in NA and EMEA**, which together drove 81% of total sales ($22.8M) across 87.6K orders, both maintaining AOVs near $260. Meanwhile, APAC showed early promise, outperforming all regions in AOV, while LATAM underperformed due to sustained AOV declines and lower order volume.
+
+**Across all regions, just 10 countries accounted for 78% of global revenue ($21.8M)**, highlighting priority markets for investment. These countries - in addition to a few other noteable countries - were analyzed in more detail below, listed under their corresponding regions.
 
 **NA | $14.6M (52% of global revenue)** - North America was TechHub’s strongest region by far, delivering over half of global revenue and orders. Two countries within the NA region accounted for almost all of its sales.
 - United States led all countries, generating $13.2M (47% global revenue) from 50.6K orders with an AOV of $262. It made up 91% of North American sales.
@@ -183,8 +182,8 @@ Across all regions, just 10 countries accounted for 78% of global revenue ($21.8
 - [ ] Explain findings in detail, highlighting key trends, anomalies / outliers, and comparisons
 - [ ] Include clean visuals (pivot tables, dashboards, graphs)
 -->
-
 ![](Images/Loyalty%20program.png)
+![](Images/loyalty%20aov.png)
 
 **From 2019 to 2022, Non-loyalty customers cumulatively outperformed loyalty members across all key metrics** — generating $17.1M in total revenue from 62.4K orders, with an overall AOV of $275. On average, that’s $4.3M in annual sales, 15.6K orders, and an AOV of $263 per year. 
 
@@ -211,7 +210,6 @@ Both groups experienced sharp declines as the market adjusted post-pandemic - bu
   - **Non-loyalty** revenue declined -47% to $2.2M, orders dropped -36% to 10.4K, and AOV fell more steeply by -18% to $214.
 
 
-![](Images/loyalty%20aov.png)
 
 **Loyalty customers demonstrated rapid early growth followed by more stable, sustained performance** — particularly in preserving AOV during periods of market volatility. In contrast, non-loyalty customers were more sensitive to external shifts, showing sharper declines in both transaction value and purchase volume. The Loyalty program appears to have helped buffer overall business performance during the post-pandemic downturn. 
 
