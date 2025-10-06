@@ -29,14 +29,14 @@ Jump to sections of interest quickly using the following links. Happy analyzing!
   - [Deep Dive Insights](#deep-dive-insights)
     - [Annual Sales Trends](#annual-sales-trends)
     - [Seasonality](#seasonality)
-  - [Product Performance](#product-performance)
+    - [Product Performance](#product-performance)
     - [Regional Comparisons](#regional-comparisons)
-    - [Loyalty Performance Overview (2019–2022)](#loyalty-performance-overview-20192022)
+  - [Loyalty Performance Overview (2019–2022)](#loyalty-performance-overview-20192022)
   - [Final Recommendations](#final-recommendations)
-      - [Finance Team](#finance-team)
-      - [Sales Team](#sales-team)
-      - [Marketing Team](#marketing-team)
-      - [Product Team](#product-team)
+    - [Finance Team](#finance-team)
+    - [Sales Team](#sales-team)
+    - [Marketing Team](#marketing-team)
+    - [Product Team](#product-team)
   - [Appendix](#appendix)
     - [Assumptions \& Caveats](#assumptions--caveats)
     - [Database Structure \& Cleaning](#database-structure--cleaning)
@@ -78,7 +78,7 @@ Between 2019 and 2022, TechHub’s sales performance **reflected the volatility 
 
 - **Recovery periods** - Sales typically stabilized in **March**, then climbed steadily until September’s spike. The outlier was March 2020, when sales surged +50%—the strongest month across all four years—as pandemic demand accelerated. Outside of 2020, March growth averaged a more modest +4% in sales and +6% in orders. Mid-year also showed smaller dips, with **June** consistently declining (-9% sales, -11% orders, on average), but reliably offset by **July**’s rebound (+11% sales, +12% orders, on average), keeping momentum intact into fall.
 
-## Product Performance
+### Product Performance
 
 ![](Images/product_area%20chart.png)
 
@@ -89,28 +89,28 @@ Between 2019 and 2022, just **four products generated the vast majority — 96% 
 1. **27in 4K Gaming Monitor | Bestseller + High AOV Combo**  
 Leading the pack was the 27” 4K Gaming Monitor, which stood out as both a bestseller and a high-value item. With an average order value (AOV) of $421 and 23K units sold, it brought in roughly $9.85M, accounting for 35% of total revenue. This product’s balance of volume and price made it the company’s most valuable contributor over the four-year period.
 
-1. **Apple AirPods Headphones | Most Popular Product**  
+2. **Apple AirPods Headphones | Most Popular Product**  
 Closely behind, the Apple AirPods Headphones emerged as the most popular product by volume. With nearly 48K units sold — almost half of all orders — it earned $7.73M or 28% of revenue. Despite its lower price point compared to laptops, its widespread popularity positioned it as a reliable driver of sales.
 
-1. **MacBook Air Laptop | Highest AOV**  
+3. **MacBook Air Laptop | Highest AOV**  
 Though the MacBook Air Laptop represented only 4% of total orders, its premium price tag ($1,588 AOV) made it significant in terms of revenue, generating $6.29M, or 22% of total revenue. Its performance peaked in 2020, with a staggering 384% increase in annual sales, possibly fueled by the sudden shift to remote work and learning. March 2020 saw highest monthly growth for Macbook Airs at 66%, aligning with when many schools closed and shifted to remote learning as well as many in-store tech purchasing options closing.
 
-1. **ThinkPad Laptop | Second Highest AOV + Seasonal Demand**  
+4. **ThinkPad Laptop | Second Highest AOV + Seasonal Demand**  
 Similarly, the ThinkPad Laptop, with an AOV of $1,100, contributed $3.2M (11% of total revenue) from a small base of just under 3K orders. Its sales trajectory also had a sharp spike in 2020, as well as standout 92% growth in December 2020. ThinkPad sales showed a clear pattern of year-end peaks, suggesting strong seasonal appeal — potentially linked to holiday gift-giving or end-of-year corporate purchases. 
 
 
 **Less Impactful Products | 4% revenue**
 
-1. **Samsung Charging Cable Pack | Low AOV but Popular**  
+5. **Samsung Charging Cable Pack | Low AOV but Popular**  
 The Samsung Charging Cable Pack proved surprisingly popular, making up 20% of all orders - although with a low price tag ($20 AOV). While it generated just 2% of total revenue at $442K, its high volume suggests it might have some strategic potential. For example, bundling it with other items could be an effective strategy to increase cart size and elevate overall revenue contribution.
 
-1. **Samsung Webcam | Latecomer with Promise**  
+6. **Samsung Webcam | Latecomer with Promise**  
 The Samsung Webcam, launched in 2020, gained traction quickly, accounting for 7% of all orders — a strong showing for a latecomer to the product line. Its growth also aligns with the rise of virtual learning and remote work, again highlighting how external events shaped consumer behavior.It contributed a total of $361K in revenue.
 
-1. **Apple iPhone | High AOV and Disappointing Sales**   
+7. **Apple iPhone | High AOV and Disappointing Sales**   
 Surprisingly, the flagship item Apple iPhone saw weak sales at just $213K in total revenue. With just 288 total units sold across four years and average monthly sales hovering around six units, the iPhone failed to gain traction with the customer base. Given the low demand, it may be worth either surveying customers or reallocating resources toward better-performing premium products.
 
-1. **Bose Soundsport Headphones | Low AOV and Disappointing Sales**  
+8. **Bose Soundsport Headphones | Low AOV and Disappointing Sales**  
 Lastly, the Bose Soundsport Headphones underperformed significantly, generating just $3.3K in total revenue—a mere 0.01% of the four-year total. Order activity was sporadic and absent in many months, making it difficult to distinguish between genuinely low demand and possible data issues. While further investigation into the data pipeline is warranted, current trends suggest the product failed to resonate with TechHub’s customer base and may no longer justify continued support or inventory space.
 
 ### Regional Comparisons
@@ -142,11 +142,8 @@ Latin America was the lowest performing region, contributing $1.6M at 6% of glob
 **Brazil** – Brazil brought in the most revenue of the region at $730K or 44% of total regional sales. It's AOV was also 8% higher than regional average at $251, suggesting that Brazil may warrant selective marketing efforts to improve  LATAM underperformance. It brough in a total of 2.9K orders.
 
 
-### Loyalty Performance Overview (2019–2022)
-<!--
-- [ ] Explain findings in detail, highlighting key trends, anomalies / outliers, and comparisons
-- [ ] Include clean visuals (pivot tables, dashboards, graphs)
--->
+## Loyalty Performance Overview (2019–2022)
+
 ![](Images/Loyalty%20program.png)
 ![](Images/loyalty%20aov.png)
 
@@ -261,7 +258,7 @@ Additionally, external events like COVID-19 and the global chip shortage played 
 ## Final Recommendations
 To support long-term growth and build on post-pandemic order patterns, the following actions are recommended to the following company teams:
 
-#### Finance Team
+### Finance Team
 - **Evaluate the loyalty program’s cost-efficiency.** 
   While Loyalty customers demonstrated higher resilience during the post-pandemic downturn, the program's net impact remains unclear without visibility into associated costs. Evaluate the loyalty program’s costs relative to its returns — particularly in the post-pandemic period to understand its true impact.
 <!-- 
@@ -269,7 +266,7 @@ To support long-term growth and build on post-pandemic order patterns, the follo
 The absence of 2022 refund records limits visibility into return behavior, particularly for high-AOV items like MacBook Airs. Partnership with the payments and/or data engineering teams to investigate data gaps and uncover root causes will support more accurate product performance analysis.
 -->
 
-#### Sales Team
+### Sales Team
 - **Prioritize high-performing regions to sustain growth.**  
 NA and EMEA contributed 81% of total revenue, driven by consistently high order volume. Prioritization of these regions in future growth plans - with special focus on top-performing countries like the United States and Great Britian - is recommended to sustain the 28% revenue growth achieved since 2019. 
 
@@ -280,13 +277,13 @@ Consider promoting premium products like MacBook Airs and ThinkPads in the APAC 
 Certain EMEA markets showed both high AOV and healthy order volume. Identify and nurture underutilized high-value EMEA markets to diversify and deepen regional performance.
 
 
-#### Marketing Team
+### Marketing Team
 - **Continue investing in the loyalty program, with regular monitoring.**  
 Loyalty participation grew significantly from 2019 to 2022 and early signs suggest it played a role in stabilizing post-pandemic revenue. It is recommended that loyalty trends be regularly monitored to ensure post-pandemic growth is sustained. 
 
 - **Conduct deeper analysis of loyalty performance across influencial key dimensions**   Current reporting lacks dimension-level loyalty insights (ex. by marketing channel or product line). Analyze loyalty performance across marketing channels and region to identify trends and tailor future program improvements.
 
-#### Product Team
+### Product Team
 <!-- - **Explore underlying causes of elevated return rates for specific products.**  
 High-AOV products like MacBook Airs, Thinkpad Laptops and Apple iPhones had higher refund rates. Collaboration with with product and operations teams is recommended to to investigate root causes of returns (ex. leveraging repair logs, survey feedback, and return reasons) —to inform quality control and marketing. -->
 
@@ -294,11 +291,7 @@ High-AOV products like MacBook Airs, Thinkpad Laptops and Apple iPhones had high
 The program’s long-term strategic value remains uncertain, especially regarding repeat behavior.
 Conduct deeper analysis on loyalty participation, repeat purchase rates, and conversion from first-time to returning customers to assess customer retention impact.
 
-
-
-
 ## Appendix
-
 ### Assumptions & Caveats
 <!--(bullets)
 - [ ] List any assumptions you made throughout the project or caveats about data issues -->
