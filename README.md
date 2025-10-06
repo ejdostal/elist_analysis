@@ -31,7 +31,7 @@ Jump to sections of interest quickly using the following links. Happy analyzing!
     - [Seasonality](#seasonality)
     - [Product Performance](#product-performance)
     - [Regional Comparisons](#regional-comparisons)
-  - [Loyalty Performance Overview (2019–2022)](#loyalty-performance-overview-20192022)
+    - [Loyalty Performance Overview (2019–2022)](#loyalty-performance-overview-20192022)
   - [Final Recommendations](#final-recommendations)
     - [Finance Team](#finance-team)
     - [Sales Team](#sales-team)
@@ -142,7 +142,7 @@ Latin America was the lowest performing region, contributing $1.6M at 6% of glob
 **Brazil** – Brazil brought in the most revenue of the region at $730K or 44% of total regional sales. It's AOV was also 8% higher than regional average at $251, suggesting that Brazil may warrant selective marketing efforts to improve  LATAM underperformance. It brough in a total of 2.9K orders.
 
 
-## Loyalty Performance Overview (2019–2022)
+### Loyalty Performance Overview (2019–2022)
 
 ![](Images/Loyalty%20program.png)
 ![](Images/loyalty%20aov.png)
