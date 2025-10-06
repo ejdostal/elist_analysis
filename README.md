@@ -1,72 +1,60 @@
-<!-- The real value of portfolio projects lies in your ability to explain them, learn the on-the-job frameworks, and supplement your interviews with proof of the quality of your work - not in simply doing them. 
-<p align="center">
-  <img src= '/Users/Erica/Documents/GitHub Repos/elist_analysis/elist_analysis/Images/tech hub + subtitle+variation.png' alt="TechHub Banner" height="300">
-</p>-->
 <p align="center">
   <img src="Images/tech hut-2.png" alt="Tech Hub image" width = "300" >
 </p> 
 
-# e-Commerce Post-Pandemic Analysis
- <!--
-Sales analysis for an e-commerce company.
-
-As a data analyst, your goal is to help the team (both technical and non-technical people) understand what you found, how you found it, and what they can do with these findings. 
--->
-<!-- 
-- [x] Overview of company history, business model, and goals   
-- [x] Explain the “so what” of the project 
-- [x] Define important terminology, metrics, and dimensions  -->
-## Project Background
-TechHub is a global e-commerce company founded in 2018 that specializes in selling popular electronics through its website and mobile app. It carries in-demand products from brands like Apple, Samsung, and ThinkPad and uses a mix of digital marketing channels—including email campaigns, SEO, and affiliate links—to reach a broad international customer base. As TechHub’s customer base and product offerings have expanded, so has its internal data—spanning orders, customers, product details, order refunds, and geographic regions. This project synthesizes and analyzes that data to uncover actionable insights that can support company leadership and guide strategic decisions across sales, product, marketing, and finance.
-
-Insights and recommendations are provided in the following key areas to identify performance trends, operational opportunities, and extract data-driven answers to strategic questions from  leadership:
-
-- **Overall Sales Trends & Seasonality:** An evaluation of historical sales trends across time - focusing on revenue, AOV (average order value), order volume, and growth rate.
-
-- **Product Performance:** An analysis of products and their impact on total revenue.
-
-- **Geographic Distribution:** An assessment of regions by performance, highlighting regional trends and countries of particular interest.
-
-- **Trends in Loyalty Program:** Assessing recent trends in loyalty vs. non-loyalty performance.
-
-<!--
-- **Refunds by Apple Product:** Comparing and analyzing returns by Apple product, focusing on Refund rate, Number of refunds, and AOV.
--->
-
-The Excel workbook used to clean and investigate trends in the data can be found [here].
-
-The SQL queries used to answer various business questions can be found [here](Files/SQL-Queries.sql).
-
-An ERD representing the main database structure and relationships between analyzed tables can be found [here](Images/ERD%20-%20Elist%20Data.png)
+# TechHub Post-Pandemic Analysis
 
 
-## Database Structure & Cleaning 
-<!-- - [x]  ERD of Dataset -->
+TechHub is a global e-commerce company founded in 2018 that specializes in selling popular electronics through its website and mobile app. It carries in-demand tech products from brands like Apple, Samsung, and ThinkPad and uses a mix of digital marketing channels, including email campaigns, SEO, and affiliate links, to reach a broad international customer base. As TechHub’s customer base and product offerings have expanded, so has its internal data -  spanning orders, customers, product details, <!-- order refunds, --> and geographic regions. 
 
-The data analyzed spanned a total of 108K+ records across four tables: `orders`, `customers`, `geo_lookup`, and `order_status`.
-![](Images/ERD%20-%20Elist%20Data.png)
-<!-- <img width="600" src= '/Users/Erica/Documents/GitHub Repos/elist_analysis/elist_analysis/Images/ERD - Elist Data.png'> -->
+This report synthesizes and analyzes data accrued between 2019 - 2022, highlighting data trends, providing insight into how company performance changed during this critical period, and offering recommendations to help guide finance, sales, product, and marketing teams going forward. 
 
-Before analysis, the dataset was cleaned in Excel to address column inconsistencies, manage missing or inaccurate records, and assess their impact on results. Helper columns added to augment the data and enable trend analysis across multiple time grains. An issues log documenting data quality issues, their severity, and resolution status is available [here].
+Insights and recommendations are focused on the following key areas:
+
+- **Sales Trends Analysis** - Evaluation of historical sales patterns from 2019 - 2022, both by annual sales performance and seasonality, focusing on Revenue, Order Volume, and Average Order Value (AOV).
+
+- **Product Level Performance** - An analysis of TechHub's various product lines, understanding their impact on sales.
+
+- **Regional Comparisons** - An evaluation of sales and orders by region, with emphasis on top-performing countries.
+
+- **Loyalty Program Success** - An assessment of the loyalty program on customer retention and sales.
+
+<!--- **Refunds by Apple Product:** Comparing and analyzing returns by Apple product, focusing on Refund rate, Number of refunds, and AOV. -->  
+## Table of Contents
+Jump to sections of interest quickly using the following links. Happy analyzing!
+
+- [TechHub Post-Pandemic Analysis](#techhub-post-pandemic-analysis)
+  - [Table of Contents](#table-of-contents)
+  - [Executive Summary](#executive-summary)
+  - [Deep Dive Insights](#deep-dive-insights)
+    - [Annual Sales Trends](#annual-sales-trends)
+    - [Seasonality](#seasonality)
+  - [Product Performance](#product-performance)
+    - [Regional Comparisons](#regional-comparisons)
+    - [Loyalty Performance Overview (2019–2022)](#loyalty-performance-overview-20192022)
+  - [Final Recommendations](#final-recommendations)
+      - [Finance Team](#finance-team)
+      - [Sales Team](#sales-team)
+      - [Marketing Team](#marketing-team)
+      - [Product Team](#product-team)
+  - [Appendix](#appendix)
+    - [Assumptions \& Caveats](#assumptions--caveats)
+    - [Database Structure \& Cleaning](#database-structure--cleaning)
+
 
 ## Executive Summary
-From 2019 to 2022, TechHub experienced strong pandemic-driven growth, with sales peaking in 2020 and stabilizing above pre-pandemic levels by 2022. Revenue growth retained post-pandemic was driven largely by a sustained 28% increase in order volume since 2019, suggesting a potential long-term shift in online tech purchasing behavior going forward. It was discovered that just four products accounted for 96% of total revenue and that NA and EMEA regions led in overall revenue and order volume. 
-
-<!-- Loyalty members became TechHub’s most consistent revenue stream by 2022, surpassing non-loyalty customers in both the annual AOV and annual revenue. MacBook Air Laptops had the highest refund rates among Apple products, warranting further review given their premium price point and sizable contribution to total revenue.-> 
+Between 2019 and 2022, TechHub generated $28.1M in revenue, averaging about $7M annually, with nearly 70% concentrated in 2020–2021 as order volume and AOV spiked during peak-pandemic demand. By 2022, AOV returned to 2019 levels, but elevated order volume kept revenue 28% above pre-pandemic ($5M vs. $3.6M). North America and EMEA led sales, while APAC delivered the fastest growth and highest AOV, highlighting an expansion opportunity. Four products drove 96% of revenue, and Loyalty Program customers began outperforming non-loyalty customers in 2021, suggesting loyalty could be a key growth lever, though further analysis is needed to confirm performance trends.
+<!--  MacBook Air Laptops had the highest refund rates among Apple products, warranting further review given their premium price point and sizable contribution to total revenue.
 -->
-A deep dive into trends and insights, including a breakdown of sales trends by year, seasonality, product, region, and loyalty member status can be found below.
-
-<!--
-- [x] bulleted list, split into sections 
-- [x] Explain findings in detail, highlighting key trends, anomalies / outliers, and comparisons
-  [x] Include clean visuals (pivot tables, dashboards, graphs)
-  -->
+ A **deep dive** into all trends and insights can be found below, organized into sections.
 
 ## Deep Dive Insights
 
-### Overall Sales Trends 
 
-Between 2019 and 2022, TechHub’s sales performance reflected the volatility of a rapidly shifting market. Over four years, the company brought in $28.1M in revenue from 108K total orders, averaging about $7M and 27K orders per year. However, this average masks an important trend: nearly 70% of total revenue was concentrated in 2020 and 2021, when both order volume and average order value (AOV) surged during the pandemic.
+![](Images/Executive%20Summary%20-%20Overall%20Sales%20Trends%20.png)
+### Annual Sales Trends
+
+Between 2019 and 2022, TechHub’s sales performance **reflected the volatility of a rapidly shifting market**. Over four years, the company brought in $28.1M in revenue from 108K total orders, averaging about $7M and 27K orders per year. However, this average masks an important trend: nearly 70% of total revenue was concentrated in 2020 and 2021, when both order volume and average order value (AOV) surged during the pandemic.
 
 - **2019: Pre-Pandemic Baseline** - TechHub recorded its lowest revenue and order volume across the time period in 2019, generating $3.8M in total sales from 16.8K orders. The average order value (AOV) was $230, a figure later matched in 2022 during the post-pandemic market correction.
 
@@ -76,46 +64,27 @@ Between 2019 and 2022, TechHub’s sales performance reflected the volatility of
 
 - **2022: Market Normalization** - Revenue dropped significantly in 2022 as the market began normalizing upon the return of in-store spending options. AOV continued to drop, returning back to it's pre-pandemic level of $230. Order volume also declined significantly by -40%. However, order count remained 28% above pre-pandemic levels, contributing directly to post-pandemic revenue retention and signaling a potentially lasting shift in consumer behavior moving forward. 
 
-![](Images/overall%20sales.png)
-
-**Order volume was the clearest driver of growth.** It more than doubled at the height of the pandemic, reaching an all-time high in 2021. Even after a steep decline in 2022 as the market began to normalize, order volume remained 28% higher than pre-pandemic levels. This sustained lift in customer activity played a critical role in maintaining revenue post-pandemic and may signal a lasting shift in consumer behavior around online tech purchases. While AOV initially spiked in 2020, it steadily declined over the next two years and returned to 2019 levels by 2022. Still, the elevated order volume—despite the drop in AOV—suggests that TechHub may have an opportunity to build on a larger, more engaged customer base in the years ahead.
+![ ](Images/seasonality.png)
 
 ### Seasonality
-<!--
-<div align="center">
-  <img src="Images/Seasonality - across all 4 years.png" width="45%"
-  style="margin-right:2%">
-  <img src="Images/seasonality of average year.png" width="45%" >
-</div> -->
 
+**TechHub’s sales followed a predictable annual cycle**, with sharp holiday peaks in September, November, and December and steep pre- and post-holiday troughs in October, January, and February. Recognizing these patterns is key for optimizing promotions and inventory. Outliers —such as the September 2022 AOV spike or early 2020’s pandemic-driven lift— highlight the importance of monitoring anomalies, as they may reveal promotional or product strategies worth repeating.
 
-TechHub’s sales performance from October through March followed a consistent annual cycle marked by a pre-holiday pullback, peak-season surge, and post-holiday slowdown, with March often signaling the start of recovery. This 6-month arc repeated across 2019–2022, with a few notable exceptions that reflect broader market disruptions.
+- **Holiday-driven highs** - The strongest months were **November** and **December**, fueled by holiday demand. November delivered the largest average order volume growth (+23%), while December drove the highest average sales growth (+22%). December 2020 set a record with $1.3M in sales and 4K orders, combining seasonal shopping with pandemic-driven demand.
 
-![ ](Images/Seasonality%20-%20across%20all%204%20years.png)
+- **Back-to-school momentum** - **September** was another critical growth point, averaging +12% sales growth and +9% order growth, often marking the start of TechHub’s annual cycle. However, September 2022 broke the pattern: order volume plunged -15%, flattening sales growth to 0%. A sharp +18% AOV spike —the highest across all years— kept sales from turning negative. This anomaly may signal a successful back-to-school promotion on high-value products such as laptops, worth analyzing further, especially since most other metrics declined during the post-pandemic downturn of 2022.
 
-- **Pre-Holiday Pullback** - The cycle typically began with a sharp decline in October— averaging a -28% decrease in sales growth and -29% decrease in order growth, the lowest average sales of any month — suggesting that consumers tend to deliberately hold back spending ahead the holiday season.
+- **Seasonal pullbacks** - The cycle’s weakest points were **October**, **January**, and **February**, when order volumes fell sharply, dragging sales down. October showed the steepest declines (avg -31%), with October 2022 hitting a record -47% order drop and a sales low of $178K, combining seasonal troughs with the broader market downturn. January and February typically showed similar slowdowns (avg -13% and -23% sales growth, respectively), though 2020 was an exception. Back-to-back +13% AOV gains allowed January sales to break even and February to grow +4%, even as orders fell. This unusual lift in AOV in early months of 2020 likely marked the beginning of early pandemic spending increases.
 
-- **Holiday Growth** - The October dip was consistently followed by a two-month surge in November and December, with November showing highest average order growth (+24%) and December delivering highest average sales growth (+23%), typically supported by modest average AOV gains (+2%).* These patterns point to a shift from high-volume purchases in November to higher total spend in December, likely driven by last-minute, higher-value gifts.
+- **Recovery periods** - Sales typically stabilized in **March**, then climbed steadily until September’s spike. The outlier was March 2020, when sales surged +50%—the strongest month across all four years—as pandemic demand accelerated. Outside of 2020, March growth averaged a more modest +4% in sales and +6% in orders. Mid-year also showed smaller dips, with **June** consistently declining (-9% sales, -11% orders, on average), but reliably offset by **July**’s rebound (+11% sales, +12% orders, on average), keeping momentum intact into fall.
 
-- **Post-Holiday Slowdown** - January and February typically saw a post-holiday downturn in both sales and order growth, consistent with seasonal fatigue and reduced demand. 
+## Product Performance
 
-- **Gradual Sales Recovery** - March generally marked the beginning of recovery, with sales trends gradually rebounding. However, 2020 disrupted this pattern entirely:
-  - January 2020 saw flat sales growth (0%), 
-  - February 2020 posted a 4% increase, and 
-  - March 2020 experienced a 50% surge, the highest monthly sales growth across all four years, driven by the initial pandemic wave and a rapid pivot to online purchasing.
+![](Images/product_area%20chart.png)
 
+Between 2019 and 2022, just **four products generated the vast majority — 96% — of total revenue**, highlighting a highly concentrated revenue stream. In contrast, the remaining four products combined contributed just 4% of revenue, though they revealed interesting dynamics worth further consideration.
 
-### Product Performance
-<!--
-- [x] Explain findings in detail, highlighting key trends, anomalies / outliers, and comparisons
-- [x] Include clean visuals (pivot tables, dashboards, graphs)
--->
-
-Between 2019 and 2022, just 4 products generated the vast majority — 96% — of total revenue, highlighting a highly concentrated revenue stream. In contrast, the remaining four products combined contributed just 4% of revenue, though they revealed interesting dynamics worth further consideration.
-
-![](Images/product%20distribution.png)
-
-#### Top Products 
+**Top Products | 96% revenue**
 
 1. **27in 4K Gaming Monitor | Bestseller + High AOV Combo**  
 Leading the pack was the 27” 4K Gaming Monitor, which stood out as both a bestseller and a high-value item. With an average order value (AOV) of $421 and 23K units sold, it brought in roughly $9.85M, accounting for 35% of total revenue. This product’s balance of volume and price made it the company’s most valuable contributor over the four-year period.
@@ -130,52 +99,48 @@ Though the MacBook Air Laptop represented only 4% of total orders, its premium p
 Similarly, the ThinkPad Laptop, with an AOV of $1,100, contributed $3.2M (11% of total revenue) from a small base of just under 3K orders. Its sales trajectory also had a sharp spike in 2020, as well as standout 92% growth in December 2020. ThinkPad sales showed a clear pattern of year-end peaks, suggesting strong seasonal appeal — potentially linked to holiday gift-giving or end-of-year corporate purchases. 
 
 
-#### Less Impactful
+**Less Impactful Products | 4% revenue**
 
-5. **Samsung Charging Cable Pack | Low AOV but Popular**  
+1. **Samsung Charging Cable Pack | Low AOV but Popular**  
 The Samsung Charging Cable Pack proved surprisingly popular, making up 20% of all orders - although with a low price tag ($20 AOV). While it generated just 2% of total revenue at $442K, its high volume suggests it might have some strategic potential. For example, bundling it with other items could be an effective strategy to increase cart size and elevate overall revenue contribution.
 
-6. **Samsung Webcam | Latecomer with Promise**  
+1. **Samsung Webcam | Latecomer with Promise**  
 The Samsung Webcam, launched in 2020, gained traction quickly, accounting for 7% of all orders — a strong showing for a latecomer to the product line. Its growth also aligns with the rise of virtual learning and remote work, again highlighting how external events shaped consumer behavior.It contributed a total of $361K in revenue.
 
-7. **Apple iPhone | High AOV and Disappointing Sales**   
+1. **Apple iPhone | High AOV and Disappointing Sales**   
 Surprisingly, the flagship item Apple iPhone saw weak sales at just $213K in total revenue. With just 288 total units sold across four years and average monthly sales hovering around six units, the iPhone failed to gain traction with the customer base. Given the low demand, it may be worth either surveying customers or reallocating resources toward better-performing premium products.
 
 1. **Bose Soundsport Headphones | Low AOV and Disappointing Sales**  
 Lastly, the Bose Soundsport Headphones underperformed significantly, generating just $3.3K in total revenue—a mere 0.01% of the four-year total. Order activity was sporadic and absent in many months, making it difficult to distinguish between genuinely low demand and possible data issues. While further investigation into the data pipeline is warranted, current trends suggest the product failed to resonate with TechHub’s customer base and may no longer justify continued support or inventory space.
 
-### Geographical Distribution
-<!--
-- [ ] Explain findings in detail, highlighting key trends, anomalies / outliers, and comparisons
-- [ ] Include clean visuals (pivot tables, dashboards, graphs)
--->
-![ ](Images/regional%20distribution.png)
-![ ](Images/top%2010%20countries.png)
+### Regional Comparisons
+![ ](Images/NA%20-%20regions%20x%20metrics.png) 
+![ ](Images/EMEA-%20regions%20x%20metrics.png)
+![ ](Images/APAC%20-%20regions%20x%20metrics.png) 
+![ ](Images/LATAM%20-%20regions%20x%20metrics.png) 
 
-**From 2019 to 2022, TechHub’s global revenue was highly concentrated in NA and EMEA**, which together drove 81% of total sales ($22.8M) across 87.6K orders, both maintaining AOVs near $260. Meanwhile, APAC showed early promise, outperforming all regions in AOV, while LATAM underperformed due to sustained AOV declines and lower order volume.
 
-**Across all regions, just 10 countries accounted for 78% of global revenue ($21.8M)**, highlighting priority markets for investment. These countries - in addition to a few other noteable countries - were analyzed in more detail below, listed under their corresponding regions.
+Global revenue was **highly concentrated in NA** (North America) **and EMEA** (Europe, Middle East, and Africa) **regions**, which together accounted for 81% of total sales ($22.8M) and 87.6K orders. NA led with 52% of sales, followed by EMEA at 29%. While the Asia-Pacific (APAC) region contributed only 13% ($3.7M), its average order value (AOV) of $279 was +7% above the global average, signaling strong earning potential. In contrast, Latin America (LATAM) contributed the least (6%, $1.7M) and had the lowest AOV ($230, -11% below the global average), suggesting limited near-term ROI.
 
-**North America (NA) | Revenue Concentrated in 2 Countries** - NA was TechHub’s strongest region by far, delivering over half of global revenue and orders at $14.6M and 55.8K orders, respectively. Two countries within the NA region accounted for almost all of its sales:
-- **United States** led all countries, generating $13.2M (47% global revenue) from 50.6K orders with an AOV of $262. It made up 91% of North American sales.
-- **Canada** contributed $1.1M (4% global revenue), with a slightly lower AOV of $247, but still represented a strong secondary market with 4.8K orders.  
-- North America's concentration in two markets with reliable volume and stable AOVs makes it central to future revenue stability.  
+**North America (NA) | 52% of Global Sales Concentrated in Two Countries**  
+North America generated $14.6M across 55.8K orders, with an AOV slightly above the global mean ($261 vs. $260). Revenue was highly concentrated in two countries, providing stability but also underscoring the region’s dependency on a few key markets.
+- **United States (US)** - Accounted for 91% of NA sales ($13.2M, 50.7K orders), contributing 47% of global revenue. Its AOV of $262 was slightly above the regional average, reinforcing the importance of maintaining strong U.S. sales to sustain global revenue stability.
+- **Canada (CA)** - Contributed 8% of NA revenue ($1.1M) and brought in 4.8K orders, contributing 4% of dollar sales globally. With an AOV $247 (-5% below the regional average), Canada could present a potential opportunity for targeted marketing to boost order value.
 
-**Europe, Middle East, and Africa (EMEA) | Revenue Widely Distributed across 15+ Countries** - EMEA contributed 29% of global revenue at $8.2M, making it the second-highest performing region. It  brought in 31.8K orders at an AOV of $259. Unlike NA, total sales for EMEA was widely distributed across 15+ countries. Leading countries included:  
-- **Great Britain** was the regional leader at $2.09M or 25% of EMEA sales. It also ranking 2nd globally by revenue. 
-- **Germany** posted a higher AOV at $270, with 3.6K orders generating $994K (4% global revenue).
-- **France, Spain, and the Netherlands** each contributed about 2% of global revenue each, Though Spain’s AOV of $223 was notably low, the Netherlands stood out with the highest regional AOV ($289) despite modest volume.
-- EMEA offers geographic diversity and consistent performance, with opportunities to optimize AOV in high-volume markets.  
+**EMEA (Europe, Middle East, and Africa) | Revenue Widely Distributed across 15+ Countries**  
+Europe, Middle East, and Africa contributed $8.2M or 29% of global revenue, bringing in 31.8K total orders at a slightly lower-than-average AOV of $259. Unlike North America, total sales for EMEA was widely distributed across 15+ countries, the leaders of which were:
+- **Great Britain (GB)** – Great Britian made up 25% of EMEA sales ($2.1M), contributing 7% of global revenue. It brought in 8.3K orders but at an AOV -3% below the regional average ($251). 
+- **Germany (DE)** – Germany brought in 12% of EMEA sales at $993.7K, contributing 4% of global revenue. Despite bringing in almost 60% fewer total orders than Great Britain's (3.7K), Germany lagged only slightly behind Great Britian in total revenue, thanks to having a country AOV +4% above regional average ($270).
 
-**Asia and Pacific (APAC) | Highest AOV and Greatest Growth** - Collectively, the APAC region contributed 13% of global revenue at $3.6M. Although APAC trailed behind NA and EMEA regions in total order volume (13.1K orders), it led all regions in highest AOV at $279 - 7% above the global average. It also sustained the highest sales growth (32%) and highest aov growth (18%) post-pandemic. Countries of particular interest in APAC include:
-- **Japan** generated $1M from just 2.6K orders, with a standout AOV of $393, the highest globally.
-- **Australia** came close to matching Japan’s revenue ($975K) via higher volume (4.8K orders) but lower AOV ($204), ranking 6th globally by revenue.  
-- **India and Korea** made up about about 9% of regional sales each at $342.1K and $332.1K, respectively - or 1% of global revenue each. Despite their modest order counts of 1.2K and 987 orders, respectively, both stood out for their higher than AOVs ($296 and $336, respectively).
-- APAC’s premium AOV and performance in countries like Japan, India and Korea indicate high-margin growth potential, especially if order volume scales.
+**APAC | High AOV and premium potential**  
+Despite contributing 13% of global revenue at $3.7M, Asia-Pacific boosted the highest regional AOV at $279 - an AOV +7% above global average, showing higher earning potential should this region continue to grow in sales. It also sustained the greatest post-pandemic annual revenue growth of any region rising from $423.9K pre-pandemic (2019) to $620.4K post-pandemic (2022).
+- **Japan (JP)** – Japan had an impressive country AOV of $393 (+51% above APAC AOV), allowing it to bring in $1M (4% of global revenue) from just 2.6K total orders, making it a strong candidate for premium offerings. Japan brought in 28% of total APAC revenue and 20% of total regional orders.
+- **Australia (AU)** – Although Australia contributed more orders than Japan at 4.8K orders (36% of total regional orders), it still came up slightly behind it in total revenue at $975K. This was due to Australia's very low AOV of $204 (-27% below regional average). Australia may be better suited for lower-value products.
 
-**Latin America (LATAM) | Lowest AOV and Greatest Declines** - LATAM was the lowest-performing of all regions - contibuting a total of $1.6M (6% of global revenue) and a modest total order volume of 7.3K orders. It averaged lowest overall AOV at $231 (-11% below average) due to a significant downward AOV trend post-2020.
-- **Brazil** was the only LATAM country to make the list of top 10 revenue generating countries - ranking #7 at a total revenue $730K (3% of global revenue). It brought in a total of 2.9K orders at a slightly below-average AOV of $251 made up 44% of LATAM's sales.
-- Without a clear path to AOV recovery, LATAM poses limited ROI, though Brazil may warrant targeted efforts.
+**LATAM | Lowest performance and declining AOV**
+Latin America was the lowest performing region, contributing $1.6M at 6% of global revenue, bringing in a total of 7.3K orders at an AOV of $231 (-11% below the global average). 
+**Brazil** – Brazil brought in the most revenue of the region at $730K or 44% of total regional sales. It's AOV was also 8% higher than regional average at $251, suggesting that Brazil may warrant selective marketing efforts to improve  LATAM underperformance. It brough in a total of 2.9K orders.
+
 
 ### Loyalty Performance Overview (2019–2022)
 <!--
@@ -293,7 +258,7 @@ Additionally, external events like COVID-19 and the global chip shortage played 
 
 -->
 
-## Recommendations
+## Final Recommendations
 To support long-term growth and build on post-pandemic order patterns, the following actions are recommended to the following company teams:
 
 #### Finance Team
@@ -330,14 +295,19 @@ The program’s long-term strategic value remains uncertain, especially regardin
 Conduct deeper analysis on loyalty participation, repeat purchase rates, and conversion from first-time to returning customers to assess customer retention impact.
 
 
-## Assumptions & Caveats
+
+
+## Appendix
+
+### Assumptions & Caveats
 <!--(bullets)
 - [ ] List any assumptions you made throughout the project or caveats about data issues -->
 
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+Throughout the analysis, multiple assumptions are made to manage challenges with the data. The assumptions and caveats are noted below:
 
-- Missing or nonsensical country records were excluded from global distribution analysis.
-- Orders with missing or invalid dates were excluded from sales trend analysis.
+- Missing or nonsensical country records were excluded from geographical distribution analysis.
+- Orders with missing or invalid dates were excluded from time analysis.
+
 <!--
 - Refund data for 2022 is assumed to be missing - given the total absence of any refund records throughout that year.
 
@@ -349,3 +319,14 @@ Assumption 4: Loyalty participation status is assumed to be accurate for each tr
 *One exception to this trend in increased AOV was December 2019, when AOV declined by -7%, diverging from typical seasonal behavior—possibly due to early pandemic uncertainty that affected consumer confidence and purchasing patterns.
 
 -->
+
+### Database Structure & Cleaning 
+The data analyzed spanned a total of 108K+ records across four tables: `orders`, `customers`, `geo_lookup`, and `order_status`. An ERD representing the main database structure and relationships between analyzed tables can be found below.
+
+![](Images/ERD%20-%20Elist%20Data.png)
+
+Before analysis, the dataset was cleaned in Excel to address column inconsistencies, manage missing or inaccurate records, and assess their impact on results. Helper columns were also added to augment the data and enable trend analysis across multiple time grains. An issues log documenting data quality issues, their severity, and resolution status is available [here](Files/TechHub_analysis_workbook.xlsx).
+
+The Excel workbook used to clean and investigate trends in the data can be found [here](Files/TechHub_analysis_workbook.xlsx).
+
+The SQL queries used to answer various business questions can be found [here](Files/SQL-Queries.sql).
