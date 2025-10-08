@@ -20,8 +20,9 @@ Insights and recommendations are focused on the following key areas:
 - **Loyalty Program Success** - An assessment of the loyalty program on customer retention and sales.
 
 <!--- **Refunds by Apple Product:** Comparing and analyzing returns by Apple product, focusing on Refund rate, Number of refunds, and AOV. -->  
+
 ## Table of Contents
-Jump to sections of interest quickly using the following links. Happy analyzing!
+Jump to sections of interest quickly using the following links.
 
 - [TechHub Post-Pandemic Analysis](#techhub-post-pandemic-analysis)
   - [Table of Contents](#table-of-contents)
@@ -31,7 +32,7 @@ Jump to sections of interest quickly using the following links. Happy analyzing!
     - [Seasonality](#seasonality)
     - [Product Performance](#product-performance)
     - [Regional Comparisons](#regional-comparisons)
-    - [Loyalty Performance Overview (2019–2022)](#loyalty-performance-overview-20192022)
+    - [Loyalty Program Success](#loyalty-program-success)
   - [Final Recommendations](#final-recommendations)
     - [Finance Team](#finance-team)
     - [Sales Team](#sales-team)
@@ -43,9 +44,11 @@ Jump to sections of interest quickly using the following links. Happy analyzing!
 
 
 ## Executive Summary
-Between 2019 and 2022, TechHub generated $28.1M in revenue, averaging about $7M annually, with nearly 70% concentrated in 2020–2021 as order volume and AOV spiked during peak-pandemic demand. By 2022, AOV returned to 2019 levels, but elevated order volume kept revenue 28% above pre-pandemic ($5M vs. $3.6M). North America and EMEA led sales, while APAC delivered the fastest growth and highest AOV, highlighting an expansion opportunity. Four products drove 96% of revenue, and Loyalty Program customers began outperforming non-loyalty customers in 2021, suggesting loyalty could be a key growth lever, though further analysis is needed to confirm performance trends.
+Between 2019 and 2022, TechHub generated $28.1M in revenue, averaging about $7M annually, with nearly 70% concentrated in 2020–2021 as order volume and AOV spiked during peak-pandemic demand. By 2022, AOV returned to 2019 levels, but elevated order volume kept revenue 28% above pre-pandemic ($5M vs. $3.6M). Seasonal sales patterns were consistently observable, especially during the holiday season. North America and EMEA led sales, while APAC delivered the fastest growth and highest AOV, highlighting an expansion opportunity. Four products drove 96% of revenue, and Loyalty Program customers began outperforming non-loyalty customers in 2021, suggesting loyalty could be a key growth lever, though further analysis is needed to confirm performance trends.
+
 <!--  MacBook Air Laptops had the highest refund rates among Apple products, warranting further review given their premium price point and sizable contribution to total revenue.
 -->
+
  A **deep dive** into all trends and insights can be found below, organized into sections.
 
 ## Deep Dive Insights
@@ -54,61 +57,61 @@ Between 2019 and 2022, TechHub generated $28.1M in revenue, averaging about $7M 
 ![](Images/Executive%20Summary%20-%20Overall%20Sales%20Trends%20.png)
 ### Annual Sales Trends
 
-Between 2019 and 2022, TechHub’s sales performance **reflected the volatility of a rapidly shifting market**. Over four years, the company brought in $28.1M in revenue from 108K total orders, averaging about $7M and 27K orders per year. However, this average masks an important trend: nearly 70% of total revenue was concentrated in 2020 and 2021, when both order volume and average order value (AOV) surged during the pandemic.
+Between 2019 and 2022, annual sales performance reflected the volatility of **a rapidly shifting market**. Across the four years, TechHub brought in $28.1M in revenue from 108K total orders, averaging about $7M and 27K orders per year. However, this average masks an important insight: a majority of **total revenue - nearly 70% - was generated in 2020 and 2021**, when both order volume and average order value (AOV) surged during the pandemic.
 
-- **2019: Pre-Pandemic Baseline** - TechHub recorded its lowest revenue and order volume across the time period in 2019, generating $3.8M in total sales from 16.8K orders. The average order value (AOV) was $230, a figure later matched in 2022 during the post-pandemic market correction.
+- **2019: Pre-Pandemic Baseline** - TechHub recorded its lowest revenue and order volume across the time period in 2019, generating $3.8M in total sales from 16.8K orders. The average order value (AOV) was $230, a figure later that was later returned to in 2022 during the post-pandemic market correction.
 
-- **2020: Pandemic Surge Begins** - Revenue and AOV peaked at $10.1M and $300, respectively — the highest levels in the 4-year period. This surge also reflected TechHub’s strongest annual growth across all metrics, with +163% growth in total revenue, +101% growth in orders, and +31% growth in AOV.
+- **2020: Pandemic Surge Begins** - Revenue and AOV peaked at $10.1M and $300, respectively — the highest levels in the 4-year period. This surge also reflected TechHub’s strongest annual growth across all metrics, with +163% growth in total revenue, +101% growth in total orders, and +31% growth in annual AOV.
 
-- **2021: Customer Adjustment** - In 2021, AOV fell -15% to $255, as consumers became more budget-conscious. Despite this, total sales still remained strong at $9.1M. This was driven by record-high order volume, which climbed another 6% in YoY growth to an all time high of 35.8K orders, highlighting sustained demand for online tech products during the pandemic despite decreases in AOV.
+- **2021: Customer Adjustment** - In 2021, AOV fell -15% to $255 as consumers became more budget-conscious. Despite this, annual sales still remained strong at $9.1M. Annual revenue this year was driven by a record-high in order volume, which climbed another 6% in YoY growth, reaching an all time high of 35.8K orders - highlighting sustained demand for online tech products during the pandemic despite decreases in AOV.
 
-- **2022: Market Normalization** - Revenue dropped significantly in 2022 as the market began normalizing upon the return of in-store spending options. AOV continued to drop, returning back to it's pre-pandemic level of $230. Order volume also declined significantly by -40%. However, order count remained 28% above pre-pandemic levels, contributing directly to post-pandemic revenue retention and signaling a potentially lasting shift in consumer behavior moving forward. 
+- **2022: Market Normalization** - Revenue dropped significantly in 2022 as the market began to normalize upon the return of in-store spending options. AOV continued to drop, returning back to it's pre-pandemic level of $230. While order volume also declined significantly (-40%), it remained 28% above pre-pandemic levels, contributing directly to almost all post-pandemic annual revenue retention and signaling a potentially lasting shift in consumer behavior moving forward. 
 
 ![ ](Images/seasonality.png)
 
 ### Seasonality
 
-**TechHub’s sales followed a predictable annual cycle**, with sharp holiday peaks in September, November, and December and steep pre- and post-holiday troughs in October, January, and February. Recognizing these patterns is key for optimizing promotions and inventory. Outliers —such as the September 2022 AOV spike or early 2020’s pandemic-driven lift— highlight the importance of monitoring anomalies, as they may reveal promotional or product strategies worth repeating.
+TechHub **sales followed a predictable annual cycle, with sharp holiday peaks** in September, November, and December **and steep pre- and post-holiday troughs** in October, January, and February. Recognizing these patterns is key for optimizing promotions and inventory. Outliers —such as the September 2022 AOV spike or early 2020’s pandemic-driven lift— highlight the importance of monitoring anomalies, as they may reveal promotional or product strategies worth repeating.
 
-- **Holiday-driven highs** - The strongest months were **November** and **December**, fueled by holiday demand. November delivered the largest average order volume growth (+23%), while December drove the highest average sales growth (+22%). December 2020 set a record with $1.3M in sales and 4K orders, combining seasonal shopping with pandemic-driven demand.
+- **Holiday-Driven Highs** - The strongest months were November and December, fueled by holiday demand. November delivered the largest average order volume growth (+23%), while December drove the highest average sales growth (+22%). December 2020 set a record high with $1.3M in sales and 4K orders, combining seasonal shopping with pandemic-driven demand.
 
-- **Back-to-school momentum** - **September** was another critical growth point, averaging +12% sales growth and +9% order growth, often marking the start of TechHub’s annual cycle. However, September 2022 broke the pattern: order volume plunged -15%, flattening sales growth to 0%. A sharp +18% AOV spike —the highest across all years— kept sales from turning negative. This anomaly may signal a successful back-to-school promotion on high-value products such as laptops, worth analyzing further, especially since most other metrics declined during the post-pandemic downturn of 2022.
+- **Back-to-School Momentum** - September was another critical growth point, averaging +12% sales growth and +9% order growth. However, September 2022 broke the pattern: order volume plunged -15%, flattening sales growth to 0%. However, a sharp +18% AOV spike —the highest AOV across all years— kept sales from turning negative. This anomaly may signal a successful back-to-school promotion on high-value products such as laptops, worth analyzing further, especially since most other metrics declined during the post-pandemic downturn of 2022. 
 
-- **Seasonal pullbacks** - The cycle’s weakest points were **October**, **January**, and **February**, when order volumes fell sharply, dragging sales down. October showed the steepest declines (avg -31%), with October 2022 hitting a record -47% order drop and a sales low of $178K, combining seasonal troughs with the broader market downturn. January and February typically showed similar slowdowns (avg -13% and -23% sales growth, respectively), though 2020 was an exception. Back-to-back +13% AOV gains allowed January sales to break even and February to grow +4%, even as orders fell. This unusual lift in AOV in early months of 2020 likely marked the beginning of early pandemic spending increases.
+- **Seasonal Pullbacks** - The cycle’s weakest points were October, January, and February, when order volumes fell sharply, dragging sales down. October showed the steepest declines (avg -31%), with October 2022 hitting a record -47% order drop and a sales low of $178K, combining seasonal troughs with the broader market downturn. January and February typically showed similar slowdowns (avg -13% and -23% sales growth, respectively), though 2020 was an exception. Back-to-back +13% AOV gains allowed January sales to break even and February to grow +4%, even as orders fell. This unusual lift in AOV in early months of 2020 likely marked the beginning of early pandemic spending increases.
 
-- **Recovery periods** - Sales typically stabilized in **March**, then climbed steadily until September’s spike. The outlier was March 2020, when sales surged +50%—the strongest month across all four years—as pandemic demand accelerated. Outside of 2020, March growth averaged a more modest +4% in sales and +6% in orders. Mid-year also showed smaller dips, with **June** consistently declining (-9% sales, -11% orders, on average), but reliably offset by **July**’s rebound (+11% sales, +12% orders, on average), keeping momentum intact into fall.
+- **Gradual Recovery Periods** - Sales typically stabilized in March, then climbed steadily until September’s spike. The outlier was March 2020, when sales surged +50%—the strongest month across all four years—as pandemic demand accelerated. Outside of 2020, March growth averaged a more modest +4% in sales and +6% in orders. Mid-year also showed smaller dips, with June consistently declining (-9% sales, -11% orders), reliably offset by July’s rebound (+11% sales, +12% orders), keeping momentum intact into fall.
 
 ### Product Performance
 
 ![](Images/product_area%20chart.png)
 
-Between 2019 and 2022, just **four products generated the vast majority — 96% — of total revenue**, highlighting a highly concentrated revenue stream. In contrast, the remaining four products combined contributed just 4% of revenue, though they revealed interesting dynamics worth further consideration.
+Between 2019 and 2022, **four products generated the vast majority — 96% — of total revenue**, highlighting a highly concentrated revenue stream. **In contrast**, the remaining products contributed only 4% of revenue combined— though they revealed interesting dynamics worth further consideration.
 
-**Top Products | 96% revenue**
+**Top Products | 96% Revenue**
 
 1. **27in 4K Gaming Monitor | Bestseller + High AOV Combo**  
 Leading the pack was the 27” 4K Gaming Monitor, which stood out as both a bestseller and a high-value item. With an average order value (AOV) of $421 and 23K units sold, it brought in roughly $9.85M, accounting for 35% of total revenue. This product’s balance of volume and price made it the company’s most valuable contributor over the four-year period.
 
 2. **Apple AirPods Headphones | Most Popular Product**  
-Closely behind, the Apple AirPods Headphones emerged as the most popular product by volume. With nearly 48K units sold — almost half of all orders — it earned $7.73M or 28% of revenue. Despite its lower price point compared to laptops, its widespread popularity positioned it as a reliable driver of sales.
+Closely behind, Apple AirPods emerged as the most popular product by volume. With nearly 48K units sold — almost half of all orders — it earned $7.73M or 28% of revenue. Despite its lower price point compared to laptops, its widespread popularity positioned it as a reliable driver of sales.
 
 3. **MacBook Air Laptop | Highest AOV**  
-Though the MacBook Air Laptop represented only 4% of total orders, its premium price tag ($1,588 AOV) made it significant in terms of revenue, generating $6.29M, or 22% of total revenue. Its performance peaked in 2020, with a staggering 384% increase in annual sales, possibly fueled by the sudden shift to remote work and learning. March 2020 saw highest monthly growth for Macbook Airs at 66%, aligning with when many schools closed and shifted to remote learning as well as many in-store tech purchasing options closing.
+Though the MacBook Air Laptop represented only 4% of total orders, its premium price tag ($1,588 AOV) made it significant in terms of revenue, generating $6.29M, or 22% of total revenue. Its performance peaked in 2020, with a staggering 384% increase in annual sales, possibly fueled by the sudden shift to remote work and learning. March 2020 saw the highest month-over-month (MoM) growth for MacBook Airs at 66%, coinciding with widespread school closures and the temporary shutdown of in-store purchasing options.
 
 4. **ThinkPad Laptop | Second Highest AOV + Seasonal Demand**  
-Similarly, the ThinkPad Laptop, with an AOV of $1,100, contributed $3.2M (11% of total revenue) from a small base of just under 3K orders. Its sales trajectory also had a sharp spike in 2020, as well as standout 92% growth in December 2020. ThinkPad sales showed a clear pattern of year-end peaks, suggesting strong seasonal appeal — potentially linked to holiday gift-giving or end-of-year corporate purchases. 
+Similarly, the ThinkPad Laptop, with an AOV of $1,100, contributed $3.2M (11% of total revenue) from a small base of just under 3K orders. Like Macbook Airs, its sales trajectory also experienced a sharp spike in 2020, as well as standout 92% growth in December 2020. ThinkPad sales showed a clear pattern of year-end peaks, suggesting strong seasonal appeal — potentially linked to holiday gift-giving or end-of-year corporate purchases. 
 
 
-**Less Impactful Products | 4% revenue**
+**Less Impactful Products | 4% Revenue**
 
 5. **Samsung Charging Cable Pack | Low AOV but Popular**  
-The Samsung Charging Cable Pack proved surprisingly popular, making up 20% of all orders - although with a low price tag ($20 AOV). While it generated just 2% of total revenue at $442K, its high volume suggests it might have some strategic potential. For example, bundling it with other items could be an effective strategy to increase cart size and elevate overall revenue contribution.
+The Samsung Charging Cable Pack proved surprisingly popular, making up 20% of all orders - although with a low price tag ($20 AOV). While it generated just 2% of total revenue at $442K, its high volume suggests it might have some strategic potential. For example, bundling it with other items could be an effective strategy to increase cart size and elevate overall revenue contribution in key regions.
 
 6. **Samsung Webcam | Latecomer with Promise**  
-The Samsung Webcam, launched in 2020, gained traction quickly, accounting for 7% of all orders — a strong showing for a latecomer to the product line. Its growth also aligns with the rise of virtual learning and remote work, again highlighting how external events shaped consumer behavior.It contributed a total of $361K in revenue.
+The Samsung Webcam, launched in 2020, gained traction quickly, accounting for 7% of all orders — a strong showing for a latecomer to the product line. Its growth also aligned with the rise of virtual learning and remote work, again highlighting how external events may have helped shape consumer behavior. It contributed a total of $361K in revenue.
 
-7. **Apple iPhone | High AOV and Disappointing Sales**   
-Surprisingly, the flagship item Apple iPhone saw weak sales at just $213K in total revenue. With just 288 total units sold across four years and average monthly sales hovering around six units, the iPhone failed to gain traction with the customer base. Given the low demand, it may be worth either surveying customers or reallocating resources toward better-performing premium products.
+7. **Apple iPhone | High AOV but Disappointing Sales**   
+Surprisingly, the flagship item Apple iPhone saw weak sales at just $213K in total revenue. With just 288 total units sold across four years and average monthly sales hovering around six units, the iPhone failed to gain traction with the customer base. Given the low demand, it may be worth either surveying customers for feedback or reallocating resources toward better-performing premium products.
 
 8. **Bose Soundsport Headphones | Low AOV and Disappointing Sales**  
 Lastly, the Bose Soundsport Headphones underperformed significantly, generating just $3.3K in total revenue—a mere 0.01% of the four-year total. Order activity was sporadic and absent in many months, making it difficult to distinguish between genuinely low demand and possible data issues. While further investigation into the data pipeline is warranted, current trends suggest the product failed to resonate with TechHub’s customer base and may no longer justify continued support or inventory space.
@@ -119,59 +122,51 @@ Lastly, the Bose Soundsport Headphones underperformed significantly, generating 
 ![ ](Images/APAC%20-%20regions%20x%20metrics.png) 
 ![ ](Images/LATAM%20-%20regions%20x%20metrics.png) 
 
+Global revenue was **highly concentrated in NA and EMEA regions**, which together drove 81% of total revenue  at $22.8M and 88K orders. The APAC region showed high earning potential despite smaller volume, while LATAM underperformed across most metrics. 
 
-Global revenue was **highly concentrated in NA** (North America) **and EMEA** (Europe, Middle East, and Africa) **regions**, which together accounted for 81% of total sales ($22.8M) and 87.6K orders. NA led with 52% of sales, followed by EMEA at 29%. While the Asia-Pacific (APAC) region contributed only 13% ($3.7M), its average order value (AOV) of $279 was +7% above the global average, signaling strong earning potential. In contrast, Latin America (LATAM) contributed the least (6%, $1.7M) and had the lowest AOV ($230, -11% below the global average), suggesting limited near-term ROI.
+**North America (NA) — 52% of Global Sales | High Dependence on U.S. Market**   
+- Generated $14.6M from 55.8K orders with a slightly above average AOV of $261 (compared to global of $260).
+- **U.S.** dominated the region, contributing 91% of NA revenue ($13.2M) and 47% of global sales, underscoring reliance on this key market.
+- **Canada** accounted for 8% of NA sales ($1.1M) but had a lower AOV ($247, -5%), signaling an opportunity to lift order value through targeted marketing or product mix adjustments.
 
-**North America (NA) | 52% of Global Sales Concentrated in Two Countries**  
-North America generated $14.6M across 55.8K orders, with an AOV slightly above the global mean ($261 vs. $260). Revenue was highly concentrated in two countries, providing stability but also underscoring the region’s dependency on a few key markets.
-- **United States (US)** - Accounted for 91% of NA sales ($13.2M, 50.7K orders), contributing 47% of global revenue. Its AOV of $262 was slightly above the regional average, reinforcing the importance of maintaining strong U.S. sales to sustain global revenue stability.
-- **Canada (CA)** - Contributed 8% of NA revenue ($1.1M) and brought in 4.8K orders, contributing 4% of dollar sales globally. With an AOV $247 (-5% below the regional average), Canada could present a potential opportunity for targeted marketing to boost order value.
+**Europe, the Middle East, and Africa (EMEA) — 29% of Global Sales | Diversified** 
+- Brought in $8.2M across 31.8K orders with a slightly below average AOV of $259. Its performance was spread across 15+ countries indicating a broader customer base.
+- **Great Britain** led the region at $2.1M (25% of EMEA revenue) with strong order volume (8.3K) but lower spending per order (AOV $251, -4% below global average). Like Canada, Great Britian may benefit from efforts to increase AOV through product mix adjustments.
+- **Germany** followed with $994K (12% of EMEA revenue) and fewer orders (3.7K) but a higher AOV ($270, +4% above global avg), highlighting stronger per-order profitability.
 
-**EMEA (Europe, Middle East, and Africa) | Revenue Widely Distributed across 15+ Countries**  
-Europe, Middle East, and Africa contributed $8.2M or 29% of global revenue, bringing in 31.8K total orders at a slightly lower-than-average AOV of $259. Unlike North America, total sales for EMEA was widely distributed across 15+ countries, the leaders of which were:
-- **Great Britain (GB)** – Great Britian made up 25% of EMEA sales ($2.1M), contributing 7% of global revenue. It brought in 8.3K orders but at an AOV -3% below the regional average ($251). 
-- **Germany (DE)** – Germany brought in 12% of EMEA sales at $993.7K, contributing 4% of global revenue. Despite bringing in almost 60% fewer total orders than Great Britain's (3.7K), Germany lagged only slightly behind Great Britian in total revenue, thanks to having a country AOV +4% above regional average ($270).
+**Asia-Pacific (APAC) — $3.7M | 13% of Global Sales | Strong Premium Potential** 
+- Despite smaller share at $3.7M and 13.1K orders, APAC boosted the highest regional AOV at $279 - an AOV +7% above global average, signaling high earning potential. 
+- **Japan** stood out with an AOV of $393 (+51% above global average and 41% above APAC's already high regional average), generating $1M, or 4% of global revenue, from just 2.6K orders — making it ideal for premium offering promotions.
+- **Australia**, while leading in orders (4.8K), had a low AOV of $204 (-22%), making it likely better suited to volume-driven or lower-priced products.
 
-**APAC | High AOV and premium potential**  
-Despite contributing 13% of global revenue at $3.7M, Asia-Pacific boosted the highest regional AOV at $279 - an AOV +7% above global average, showing higher earning potential should this region continue to grow in sales. It also sustained the greatest post-pandemic annual revenue growth of any region rising from $423.9K pre-pandemic (2019) to $620.4K post-pandemic (2022).
-- **Japan (JP)** – Japan had an impressive country AOV of $393 (+51% above APAC AOV), allowing it to bring in $1M (4% of global revenue) from just 2.6K total orders, making it a strong candidate for premium offerings. Japan brought in 28% of total APAC revenue and 20% of total regional orders.
-- **Australia (AU)** – Although Australia contributed more orders than Japan at 4.8K orders (36% of total regional orders), it still came up slightly behind it in total revenue at $975K. This was due to Australia's very low AOV of $204 (-27% below regional average). Australia may be better suited for lower-value products.
-
-**LATAM | Lowest performance and declining AOV**
-Latin America was the lowest performing region, contributing $1.6M at 6% of global revenue, bringing in a total of 7.3K orders at an AOV of $231 (-11% below the global average). 
-**Brazil** – Brazil brought in the most revenue of the region at $730K or 44% of total regional sales. It's AOV was also 8% higher than regional average at $251, suggesting that Brazil may warrant selective marketing efforts to improve  LATAM underperformance. It brough in a total of 2.9K orders.
+**Latin America (LATAM) | 6% of Global Sales | Weakest Regional Performance + Below Average AOV**   
+- Produced $1.7M from 7.3K orders with the lowest AOV globally ($231, -11%), reflecting limited short-term ROI. Overall, also LATAM averaged the lowest AOV - and showed greatest successive AOV declines of any region, with AOV decreasing more than an additional -20% each year since the initial 2020 boom, signaling a concerning trend warranting further investigation.
+- **Brazil** was the top performer ($730K, 44% of LATAM sales) with a higher AOV ($251, +8%), suggesting it may warrant selective marketing efforts to improve LATAM underperformance.  
 
 
-### Loyalty Performance Overview (2019–2022)
-
-![](Images/Loyalty%20program.png)
+### Loyalty Program Success
 ![](Images/loyalty%20aov.png)
 
-From 2019 to 2022, Non-loyalty customers cumulatively outperformed loyalty members across all key metrics — generating $17.1M in total revenue from 62.4K orders, with an overall AOV of $275. On average, that’s $4.3M in annual sales, 15.6K orders, and an AOV of $263 per year. 
+ **Loyalty customers stood out for their more consistent year-over-year growth and greater spending stability.** These traits allowed Loyalty members to overtake Non-loyalty customers in terms of annual revenue and order volume performance by 2021, then also in annual AOV by 2022. Loyalty customers could become a high-value and resilient customer segment to TechHub, should these trends continue. 
 
-**However, Loyalty customers stood out for their more consistent year-over-year growth and greater spending stability.** By 2021, they overtook non-loyalty customers in annual revenue and order volume, and by 2022, they also surpassed them in AOV. These trends suggest loyalty customers are becoming a high-value and resilient segment, particularly in a post-pandemic market. By the end of 2022, loyalty customers had generated a total of $11M across 45.7K orders, with an overall AOV of $240—averaging $2.7M in sales and 11.4K orders annually at a steady AOV. 
-
-**2019 - Minimal Loyalty Activity**    
-- **Loyalty** program activity was minimal, reporting the lowest performance across all metrics: $415.9K in revenue, 2K orders, and an AOV of $207.
+**2019 - Low Intial Loyalty Activity**    
+- **Loyalty** program activity was minimal in 2019, reporting the lowest performance across all metrics: $415.9K in revenue, 2K orders, and an AOV of $207.
 - **Non-loyalty** dominated early performance, generating $3.5M from 14.9K orders at an AOV of $233, making it the primary revenue driver in 2019.
-- Loyalty’s low baseline likely reflects limited adoption or a new rollout, but it sets the stage for dramatic growth over the following years.
+- **Loyalty’s** low starting baseline may reflect low initial numbers of program participants.
 
-**2020 - Exponential Growth across Loyalty and Non-loyalty**
-- **Loyalty** revenue surged 614% to $2.97M, driven by a 550% increase in orders (13K) and a 10% increase in AOV to $228.
-- **Non-loyalty** also saw strong growth, reaching its highest performance across all metrics: $7.2M in revenue (+108%), 20.8K orders (+40%), and an AOV of $345 (+48%).
-- While Non-loyalty continued to lead in overall value, loyalty’s explosive growth highlighted early traction and increasing customer engagement.
+**2020 - Explosive Growth across both Customer Groups**
+- **Loyalty** revenue surged 614% ($2.97M), driven by a 550% increase in orders (13K) and a 10% increase in AOV ($228).
+- **Non-loyalty** also say impressive growth, reaching its highest quantitative performance across all key metrics across the entire period - seeing at 108% revenue revenue ($7.2M), +40% order growth growth (20.8K) and +48% AOV growth ($345).
+- While **Non-loyalty** continued to dominate in overall value, Loyalty’s enormous growth in 2020 highlighted early traction and increasing customer engagement.
 
-**2021 - Loyalty Builds Momentum, Non-Loyalty Reverses**  
-- **Loyalty** revenue increased another 64% to $4.9M, with orders up 50% to 19.6K and AOV rising 9% to $249. This marked the first year that loyalty customers outperformed non-loyalty in both revenue and order volume.
-- **Non-loyalty** performance declined significantly: revenue dropped -41% to $4.3M, orders fell -22% to 16.3K, and AOV decreased -24% to $261. Despite this, non-loyalty AOV remained slightly higher than loyalty’s.
-- Loyalty accounted for 53% of total revenue and 55% of total orders in 2021, reflecting a dramatic shift in customer behavior over just two years.
+**2021 - Loyalty Continues to Build Momentum | Non-Loyalty Performance Declines**  
+- **Loyalty** revenue increased another 64% to $4.9M, orders another 50% to 19.6K and AOV another 9% to $249. This marked the first year that loyalty customers outperformed non-loyalty in both revenue and order volume.
+- **Non-loyalty** performance declined significantly: revenue dropping -41% to $4.3M, orders -22% to 16.3K, and AOV -24% to $261. Nonetheless, Non-loyalty annual AOV remained slightly higher than Loyalty’s for 2021.
 
-**2022 - Both Loyalty and Non-loyalty Decline Amid Post-Pandemic**   
-- **Loyalty** revenue fell -44% to $2.7M, with order volume down -43% to 11.1K. AOV held relatively stable, decreasing just 2% to $245—now exceeding that of non-loyalty for the first time.
-- **Non-loyalty** revenue declined -47% to $2.2M, orders dropped -36% to 10.4K, and AOV fell more steeply by -18% to $214.
-- Both groups experienced sharp declines as the market adjusted post-pandemic - but Loyalty outperformed non-loyalty in every key metric, maintaining its lead through the contraction and showing stronger retention in transaction value.   
-
-Loyalty customers demonstrated rapid early growth followed by more stable, sustained performance — particularly in preserving AOV during periods of market volatility. In contrast, non-loyalty customers were more sensitive to external shifts, showing sharper declines in both transaction value and purchase volume. The Loyalty program appears to have helped buffer overall business performance during the post-pandemic downturn. 
+**2022 - Both Experience Declines Amid 2022 Downturn**   
+- **Loyalty** annual revenue fell to $2.7M (a -44% drop), with order volume down -43% to 11.1K. AOV held relatively stable, though, decreasing just 2% to $245 - showing  relative stability in average order value despite extreme market conditions. 
+- **Non-loyalty** annual revenue declined to $2.2M (-47% drop), orders dropped to 10.4K (-36%), and AOV fell steeply -18% to $214.
+- **While all customer types experienced sharp declines** in 2022, **Loyalty**'s relatively stable AOV kept it outperforming **Non-loyalty** across all annual metrics.
 
 <!--
 ### Refund Rates - Apple vs Other Brands
@@ -254,47 +249,46 @@ This analysis assumes that order and refund data is complete and accurate. For p
 Additionally, external events like COVID-19 and the global chip shortage played a major role in shaping purchasing behavior—especially in 2020—so not all trends are likely to continue post-pandemic.
 
 -->
-
 ## Final Recommendations
 To support long-term growth and build on post-pandemic order patterns, the following actions are recommended to the following company teams:
 
 ### Finance Team
-- **Evaluate the loyalty program’s cost-efficiency.** 
+
+- **Evaluate the loyalty program’s cost-efficiency.**  
   While Loyalty customers demonstrated higher resilience during the post-pandemic downturn, the program's net impact remains unclear without visibility into associated costs. Evaluate the loyalty program’s costs relative to its returns — particularly in the post-pandemic period to understand its true impact.
-<!-- 
-- **Audit and recover missing refund data to support product-level decision-making.**   
-The absence of 2022 refund records limits visibility into return behavior, particularly for high-AOV items like MacBook Airs. Partnership with the payments and/or data engineering teams to investigate data gaps and uncover root causes will support more accurate product performance analysis.
--->
+
+<!-- **Audit and recover missing refund data to support product-level decision-making.**   
+The absence of 2022 refund records limits visibility into return behavior, particularly for high-AOV items like MacBook Airs. Partnership with the payments and/or data engineering teams to investigate data gaps and uncover root causes will support more accurate product performance analysis. -->
 
 ### Sales Team
+
 - **Prioritize high-performing regions to sustain growth.**  
-NA and EMEA contributed 81% of total revenue, driven by consistently high order volume. Prioritization of these regions in future growth plans - with special focus on top-performing countries like the United States and Great Britian - is recommended to sustain the 28% revenue growth achieved since 2019. 
-
-- **Capitalize on APAC region to increase revenue per order.**  
-Consider promoting premium products like MacBook Airs and ThinkPads in the APAC region. Try prioritizing high AOV APAC countries with meaningful order volume to build on existing traction efficiently. 
-
-- **Deepen and diversify EMEA performance.**
-Certain EMEA markets showed both high AOV and healthy order volume. Identify and nurture underutilized high-value EMEA markets to diversify and deepen regional performance.
-
+  NA and EMEA contributed 81% of total revenue, driven by consistently high order volume. Prioritization of these regions in future growth plans - with special focus on top-performing countries like the United States and Great Britian - is recommended to sustain the 28% revenue growth achieved since 2019.
 
 ### Marketing Team
-- **Continue investing in the loyalty program, with regular monitoring.**  
-Loyalty participation grew significantly from 2019 to 2022 and early signs suggest it played a role in stabilizing post-pandemic revenue. It is recommended that loyalty trends be regularly monitored to ensure post-pandemic growth is sustained. 
 
-- **Conduct deeper analysis of loyalty performance across influencial key dimensions**   Current reporting lacks dimension-level loyalty insights (ex. by marketing channel or product line). Analyze loyalty performance across marketing channels and region to identify trends and tailor future program improvements.
+- **Capitalize on APAC region to increase revenue per order.**
+  Consider promoting premium products like MacBook Airs and ThinkPads in the APAC region to take advantage of this region's high AOV. Consider prioritizing high AOV countries in the region with meaningful order volume to build on existing traction efficiently, like Japan.
+
+- **Monitor Loyalty program performance regularly for shifting trends.**    
+  Loyalty participation grew significantly from 2019 to 2022 and early signs suggest it played a role in stabilizing post-pandemic revenue. It is recommended that loyalty trends be regularly monitored to ensure their performance is sustained.
+
+**Leverage seasonal cycles to maximize promotions**
+- Customers regularly showed increased spending during recurring seasonal windows, especially November, December and September months. Consider promoting high performing seasonal products at opportune times, like Thinkpad Laptops around Christmas.
 
 ### Product Team
-<!-- - **Explore underlying causes of elevated return rates for specific products.**  
-High-AOV products like MacBook Airs, Thinkpad Laptops and Apple iPhones had higher refund rates. Collaboration with with product and operations teams is recommended to to investigate root causes of returns (ex. leveraging repair logs, survey feedback, and return reasons) —to inform quality control and marketing. -->
 
-- **Conduct deeper analysis of loyalty program's repeat customer behavior.**  
-The program’s long-term strategic value remains uncertain, especially regarding repeat behavior.
-Conduct deeper analysis on loyalty participation, repeat purchase rates, and conversion from first-time to returning customers to assess customer retention impact.
+- **Conduct deeper analysis of loyalty program's retention by cohort**
+  The program’s long-term strategic value remains uncertain, especially regarding repeat behavior. Conduct deeper analysis on loyalty participation, repeat purchase rates, and conversion from first-time to returning customers to assess customer retention impact.
+
+- **Conduct further analysis of Loyalty Program across influencial key dimensions.**   Current reporting lacks dimension-level loyalty insights (ex. by marketing channel or product line). Analyze loyalty performance across marketing channels and region to identify trends and tailor program marketing.
+
+<!-- - **Explore underlying causes of elevated return rates for specific products.**  
+High-AOV products like MacBook Airs, Thinkpad Laptops and Apple iPhones had higher refund rates. Collaboration with with product and operations teams is recommended to to investigate root causes of returns (ex. leveraging repair logs, survey feedback, and return reasons) —to inform quality control and marketing. 
+-->
 
 ## Appendix
 ### Assumptions & Caveats
-<!--(bullets)
-- [ ] List any assumptions you made throughout the project or caveats about data issues -->
 
 Throughout the analysis, multiple assumptions are made to manage challenges with the data. The assumptions and caveats are noted below:
 
@@ -323,3 +317,7 @@ Before analysis, the dataset was cleaned in Excel to address column inconsistenc
 The Excel workbook used to clean and investigate trends in the data can be found [here](Files/TechHub_analysis_workbook.xlsx).
 
 The SQL queries used to answer various business questions can be found [here](Files/SQL-Queries.sql).
+
+
+-----
+[Back to Top](#techhub-post-pandemic-analysis)
