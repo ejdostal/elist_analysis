@@ -7,7 +7,7 @@
 
 TechHub is a global e-commerce company founded in 2018 that specializes in selling popular electronics through its website and mobile app. It carries in-demand tech products from brands like Apple, Samsung, and ThinkPad and uses a mix of digital marketing channels, including email campaigns, SEO, and affiliate links, to reach a broad international customer base. As TechHub’s customer base and product offerings have expanded, so has its internal data -  spanning orders, customers, product details, <!-- order refunds, --> and geographic regions. 
 
-This report synthesizes and analyzes data accrued between 2019 - 2022, highlighting data trends, providing insight into how company performance changed during this critical period, and offering recommendations to help guide finance, sales, product, and marketing teams going forward. 
+**This report synthesizes and analyzes data accrued between 2019 - 2022, highlighting data trends, providing insight into how company performance changed during this critical period, and offering recommendations** to help guide finance, sales, product, and marketing teams going forward.
 
 Insights and recommendations are focused on the following key areas:
 
@@ -49,7 +49,7 @@ Between 2019 and 2022, TechHub generated $28.1M in revenue, averaging about $7M 
 <!--  MacBook Air Laptops had the highest refund rates among Apple products, warranting further review given their premium price point and sizable contribution to total revenue.
 -->
 
- A **deep dive** into all trends and insights can be found below, organized into sections.
+ **A deep dive into all trends and insights** can be found below, organized into sections.
 
 ## Deep Dive Insights
 
@@ -57,7 +57,7 @@ Between 2019 and 2022, TechHub generated $28.1M in revenue, averaging about $7M 
 ![](Images/Executive%20Summary%20-%20Overall%20Sales%20Trends%20.png)
 ### Annual Sales Trends
 
-Between 2019 and 2022, annual sales performance reflected the volatility of **a rapidly shifting market**. Across the four years, TechHub brought in $28.1M in revenue from 108K total orders, averaging about $7M and 27K orders per year. However, this average masks an important insight: a majority of **total revenue - nearly 70% - was generated in 2020 and 2021**, when both order volume and average order value (AOV) surged during the pandemic.
+**Between 2019 and 2022, annual sales performance reflected the volatility of a rapidly shifting market.** Across the four years, TechHub brought in $28.1M in revenue from 108K total orders, averaging about $7M and 27K orders per year. However, this average masks an important insight: a majority of total revenue - nearly 70% - was generated in 2020 and 2021, when both order volume and average order value (AOV) surged during the pandemic.
 
 - **2019: Pre-Pandemic Baseline** - TechHub recorded its lowest revenue and order volume across the time period in 2019, generating $3.8M in total sales from 16.8K orders. The average order value (AOV) was $230, a figure later that was later returned to in 2022 during the post-pandemic market correction.
 
@@ -71,7 +71,7 @@ Between 2019 and 2022, annual sales performance reflected the volatility of **a 
 
 ### Seasonality
 
-TechHub **sales followed a predictable annual cycle, with sharp holiday peaks** in September, November, and December **and steep pre- and post-holiday troughs** in October, January, and February. Recognizing these patterns is key for optimizing promotions and inventory. Outliers —such as the September 2022 AOV spike or early 2020’s pandemic-driven lift— highlight the importance of monitoring anomalies, as they may reveal promotional or product strategies worth repeating.
+TechHub sales followed **a predictable annual cycle, with sharp holiday peaks in September, November, and December and steep pre- and post-holiday troughs in October, January, and February.** Recognizing these patterns is key for optimizing promotions and inventory. Outliers —such as the September 2022 AOV spike or early 2020’s pandemic-driven lift— highlight the importance of monitoring anomalies, as they may reveal promotional or product strategies worth repeating.
 
 - **Holiday-Driven Highs** - The strongest months were November and December, fueled by holiday demand. November delivered the largest average order volume growth (+23%), while December drove the highest average sales growth (+22%). December 2020 set a record high with $1.3M in sales and 4K orders, combining seasonal shopping with pandemic-driven demand.
 
@@ -85,7 +85,7 @@ TechHub **sales followed a predictable annual cycle, with sharp holiday peaks** 
 
 ![](Images/product_area%20chart.png)
 
-Between 2019 and 2022, **four products generated the vast majority — 96% — of total revenue**, highlighting a highly concentrated revenue stream. **In contrast**, the remaining products contributed only 4% of revenue combined— though they revealed interesting dynamics worth further consideration.
+Between 2019 and 2022, **four products generated the vast majority — 96% — of total revenue**, highlighting a highly concentrated revenue stream. In contrast, the remaining products contributed only 4% of revenue combined— though they revealed interesting dynamics worth further consideration.
 
 **Top Products | 96% Revenue**
 
@@ -152,12 +152,12 @@ Global revenue was **highly concentrated in NA and EMEA regions**, which togethe
 **2019 - Low Intial Loyalty Activity**    
 - **Loyalty** program activity was minimal in 2019, reporting the lowest performance across all metrics: $415.9K in revenue, 2K orders, and an AOV of $207.
 - **Non-loyalty** dominated early performance, generating $3.5M from 14.9K orders at an AOV of $233, making it the primary revenue driver in 2019.
-- **Loyalty’s** low starting baseline may reflect low initial numbers of program participants.
+- Loyalty’s low starting baseline may reflect low initial numbers of program participants.
 
 **2020 - Explosive Growth across both Customer Groups**
 - **Loyalty** revenue surged 614% ($2.97M), driven by a 550% increase in orders (13K) and a 10% increase in AOV ($228).
 - **Non-loyalty** also say impressive growth, reaching its highest quantitative performance across all key metrics across the entire period - seeing at 108% revenue revenue ($7.2M), +40% order growth growth (20.8K) and +48% AOV growth ($345).
-- While **Non-loyalty** continued to dominate in overall value, Loyalty’s enormous growth in 2020 highlighted early traction and increasing customer engagement.
+- While Non-loyalty continued to dominate in overall value, Loyalty’s enormous growth in 2020 highlighted early traction and increasing customer engagement.
 
 **2021 - Loyalty Continues to Build Momentum | Non-Loyalty Performance Declines**  
 - **Loyalty** revenue increased another 64% to $4.9M, orders another 50% to 19.6K and AOV another 9% to $249. This marked the first year that loyalty customers outperformed non-loyalty in both revenue and order volume.
@@ -166,7 +166,7 @@ Global revenue was **highly concentrated in NA and EMEA regions**, which togethe
 **2022 - Both Experience Declines Amid 2022 Downturn**   
 - **Loyalty** annual revenue fell to $2.7M (a -44% drop), with order volume down -43% to 11.1K. AOV held relatively stable, though, decreasing just 2% to $245 - showing  relative stability in average order value despite extreme market conditions. 
 - **Non-loyalty** annual revenue declined to $2.2M (-47% drop), orders dropped to 10.4K (-36%), and AOV fell steeply -18% to $214.
-- **While all customer types experienced sharp declines** in 2022, **Loyalty**'s relatively stable AOV kept it outperforming **Non-loyalty** across all annual metrics.
+- While all customer types experienced sharp declines in 2022, Loyalty's relatively stable AOV kept it outperforming Non-loyalty across all annual metrics.
 
 <!--
 ### Refund Rates - Apple vs Other Brands
@@ -267,21 +267,22 @@ The absence of 2022 refund records limits visibility into return behavior, parti
 
 ### Marketing Team
 
-- **Capitalize on APAC region to increase revenue per order.**
+- **Capitalize on APAC region to increase revenue per order.**  
   Consider promoting premium products like MacBook Airs and ThinkPads in the APAC region to take advantage of this region's high AOV. Consider prioritizing high AOV countries in the region with meaningful order volume to build on existing traction efficiently, like Japan.
 
 - **Monitor Loyalty program performance regularly for shifting trends.**    
   Loyalty participation grew significantly from 2019 to 2022 and early signs suggest it played a role in stabilizing post-pandemic revenue. It is recommended that loyalty trends be regularly monitored to ensure their performance is sustained.
 
-**Leverage seasonal cycles to maximize promotions**
-- Customers regularly showed increased spending during recurring seasonal windows, especially November, December and September months. Consider promoting high performing seasonal products at opportune times, like Thinkpad Laptops around Christmas.
+- **Leverage seasonal cycles to maximize promotions**
+  Customers regularly showed increased spending during recurring seasonal windows, especially November, December and September months. Consider promoting high performing seasonal products at opportune times, like Thinkpad Laptops around Christmas.
 
 ### Product Team
 
-- **Conduct deeper analysis of loyalty program's retention by cohort**
+- **Conduct deeper analysis of loyalty program's retention by cohort**  
   The program’s long-term strategic value remains uncertain, especially regarding repeat behavior. Conduct deeper analysis on loyalty participation, repeat purchase rates, and conversion from first-time to returning customers to assess customer retention impact.
 
-- **Conduct further analysis of Loyalty Program across influencial key dimensions.**   Current reporting lacks dimension-level loyalty insights (ex. by marketing channel or product line). Analyze loyalty performance across marketing channels and region to identify trends and tailor program marketing.
+- **Conduct further analysis of Loyalty Program across influencial key dimensions.**   
+  Current reporting lacks dimension-level loyalty insights (ex. by marketing channel or product line). Analyze loyalty performance across marketing channels and region to identify trends and tailor program marketing.
 
 <!-- - **Explore underlying causes of elevated return rates for specific products.**  
 High-AOV products like MacBook Airs, Thinkpad Laptops and Apple iPhones had higher refund rates. Collaboration with with product and operations teams is recommended to to investigate root causes of returns (ex. leveraging repair logs, survey feedback, and return reasons) —to inform quality control and marketing. 
