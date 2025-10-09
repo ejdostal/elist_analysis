@@ -7,7 +7,7 @@
 
 TechHub is a global e-commerce company founded in 2018 that specializes in selling popular electronics through its website and mobile app. It carries in-demand tech products from brands like Apple, Samsung, and ThinkPad and uses a mix of digital marketing channels, including email campaigns, SEO, and affiliate links, to reach a broad international customer base. As TechHub’s customer base and product offerings have expanded, so has its internal data -  spanning orders, customers, product details, <!-- order refunds, --> and geographic regions. 
 
-**This report synthesizes and analyzes data accrued between 2019 - 2022, highlighting data trends, providing insight into how company performance changed during this critical period, and offering recommendations** to help guide finance, sales, marketing, product, and operations teams going forward.
+This report synthesizes and analyzes data accrued between 2019 - 2022, highlighting data trends, providing insight into how company performance changed during this critical period, and offering recommendations to help guide finance, sales, marketing, product, and operations teams going forward.
 
 Insights and recommendations are focused on the following key areas:
 
@@ -59,7 +59,7 @@ Between 2019 and 2022, TechHub generated $28.1M in revenue, averaging about $7M 
 ![](Images/Executive%20Summary%20-%20Overall%20Sales%20Trends%20.png)
 ### Annual Sales Trends
 
-**Between 2019 and 2022, annual sales performance reflected the volatility of a rapidly shifting market.** Across the four years, TechHub brought in $28.1M in revenue from 108K total orders, averaging about $7M and 27K orders per year. However, this average masks an important insight: a majority of total revenue - nearly 70% - was generated in 2020 and 2021, when both order volume and average order value (AOV) surged during the pandemic.
+Between 2019 and 2022, annual sales performance reflected the volatility of a rapidly shifting market. Across the four years, TechHub brought in $28.1M in revenue from 108K total orders, averaging about $7M and 27K orders per year. However, this average masks an important insight: a majority of total revenue - nearly 70% - was generated in 2020 and 2021, when both order volume and average order value (AOV) surged during the pandemic.
 
 - **2019: Pre-Pandemic Baseline** - TechHub recorded its lowest revenue and order volume across the time period in 2019, generating $3.8M in total sales from 16.8K orders. The average order value (AOV) was $230, a figure later that was later returned to in 2022 during the post-pandemic market correction.
 
@@ -73,7 +73,7 @@ Between 2019 and 2022, TechHub generated $28.1M in revenue, averaging about $7M 
 
 ### Seasonality
 
-TechHub sales followed **a predictable annual cycle, with sharp holiday peaks in September, November, and December and steep pre- and post-holiday troughs in October, January, and February.** Recognizing these patterns is key for optimizing promotions and inventory. Outliers —such as the September 2022 AOV spike or early 2020’s pandemic-driven lift— highlight the importance of monitoring anomalies, as they may reveal promotional or product strategies worth repeating.
+TechHub sales followed a predictable annual cycle, with sharp holiday peaks in September, November, and December and steep pre- and post-holiday troughs in October, January, and February. Recognizing these patterns is key for optimizing promotions and inventory. Outliers —such as the September 2022 AOV spike or early 2020’s pandemic-driven lift— highlight the importance of monitoring anomalies, as they may reveal promotional or product strategies worth repeating.
 
 - **Holiday-Driven Highs** - The strongest months were November and December, fueled by holiday demand. November delivered the largest average order volume growth (+23%), while December drove the highest average sales growth (+22%). December 2020 set a record high with $1.3M in sales and 4K orders, combining seasonal shopping with pandemic-driven demand.
 
@@ -87,7 +87,7 @@ TechHub sales followed **a predictable annual cycle, with sharp holiday peaks in
 
 ![](Images/product_area%20chart.png)
 
-Between 2019 and 2022, **four products generated the vast majority — 96% — of total revenue**, highlighting a highly concentrated revenue stream. In contrast, the remaining products contributed only 4% of revenue combined— though they revealed interesting dynamics worth further consideration.
+Between 2019 and 2022, four products generated the vast majority — 96% — of total revenue, highlighting a highly concentrated revenue stream. In contrast, the remaining products contributed only 4% of revenue combined— though they revealed interesting dynamics worth further consideration.
 
 **Top Products | 96% Revenue**
 
@@ -124,7 +124,7 @@ Lastly, the Bose Soundsport Headphones underperformed significantly, generating 
 ![ ](Images/APAC%20-%20regions%20x%20metrics.png) 
 ![ ](Images/LATAM%20-%20regions%20x%20metrics.png) 
 
-Global revenue was **highly concentrated in NA and EMEA regions**, which together drove 81% of total revenue  at $22.8M and 88K orders. The APAC region showed high earning potential despite smaller volume, while LATAM underperformed across most metrics. 
+Global revenue was highly concentrated in NA and EMEA regions, which together drove 81% of total revenue  at $22.8M and 88K orders. The APAC region showed high earning potential despite smaller volume, while LATAM underperformed across most metrics. 
 
 **North America (NA) — 52% of Global Sales | High Dependence on U.S. Market**   
 - Generated $14.6M from 55.8K orders with a slightly above average AOV of $261 (compared to global of $260).
@@ -149,7 +149,7 @@ Global revenue was **highly concentrated in NA and EMEA regions**, which togethe
 ### Loyalty Program Success
 ![](Images/loyalty%20aov.png)
 
- **Loyalty customers stood out for their more consistent year-over-year growth and greater spending stability.** These traits allowed Loyalty members to overtake Non-loyalty customers in terms of annual revenue and order volume performance by 2021, then also in annual AOV by 2022. Loyalty customers could become a high-value and resilient customer segment to TechHub, should these trends continue. 
+ Loyalty customers stood out for their more consistent year-over-year growth and greater spending stability. These traits allowed Loyalty members to overtake Non-loyalty customers in terms of annual revenue and order volume performance by 2021, then also in annual AOV by 2022. Loyalty customers could become a high-value and resilient customer segment to TechHub, should these trends continue. 
 
 **2019 - Low Intial Loyalty Activity**    
 - **Loyalty** program activity was minimal in 2019, reporting the lowest performance across all metrics: $415.9K in revenue, 2K orders, and an AOV of $207.
