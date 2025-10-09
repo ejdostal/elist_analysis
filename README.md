@@ -7,7 +7,7 @@
 
 TechHub is a global e-commerce company founded in 2018 that specializes in selling popular electronics through its website and mobile app. It carries in-demand tech products from brands like Apple, Samsung, and ThinkPad and uses a mix of digital marketing channels, including email campaigns, SEO, and affiliate links, to reach a broad international customer base. As TechHub’s customer base and product offerings have expanded, so has its internal data -  spanning orders, customers, product details, <!-- order refunds, --> and geographic regions. 
 
-**This report synthesizes and analyzes data accrued between 2019 - 2022, highlighting data trends, providing insight into how company performance changed during this critical period, and offering recommendations** to help guide finance, sales, product, and marketing teams going forward.
+**This report synthesizes and analyzes data accrued between 2019 - 2022, highlighting data trends, providing insight into how company performance changed during this critical period, and offering recommendations** to help guide finance, sales, marketing, product, and operations teams going forward.
 
 Insights and recommendations are focused on the following key areas:
 
@@ -38,6 +38,7 @@ Jump to sections of interest quickly using the following links.
     - [Sales Team](#sales-team)
     - [Marketing Team](#marketing-team)
     - [Product Team](#product-team)
+    - [Operations Team](#operations-team)
   - [Appendix](#appendix)
     - [Assumptions \& Caveats](#assumptions--caveats)
     - [Database Structure \& Cleaning](#database-structure--cleaning)
@@ -254,18 +255,62 @@ To support long-term growth and build on post-pandemic order patterns, the follo
 
 ### Finance Team
 
-- **Evaluate the loyalty program’s cost-efficiency.**  
-  While Loyalty customers demonstrated higher resilience during the post-pandemic downturn, the program's net impact remains unclear without visibility into associated costs. Evaluate the loyalty program’s costs relative to its returns — particularly in the post-pandemic period to understand its true impact.
+- **Evaluate the Loyalty Program’s cost-effectiveness.**  
+Loyalty customers demonstrated stronger spending stability and retention during downturns, outperforming non-loyalty customers in revenue, order volume, and AOV by 2022. However, the program’s overall ROI remains unclear without cost visibility. Assess program costs to determine net financial impact.
 
-<!-- **Audit and recover missing refund data to support product-level decision-making.**   
-The absence of 2022 refund records limits visibility into return behavior, particularly for high-AOV items like MacBook Airs. Partnership with the payments and/or data engineering teams to investigate data gaps and uncover root causes will support more accurate product performance analysis. -->
+- **Model sustainable post-pandemic revenue baselines.**  
+  While 2022 revenue declined, it still remained +28% above pre-pandemic levels due to persistently higher order volume. Consider projecting forward using post-2022 spending normalization trends to guide budget planning and more accurate long-term forecasting.
 
 ### Sales Team
 
-- **Prioritize high-performing regions to sustain growth.**  
-  NA and EMEA contributed 81% of total revenue, driven by consistently high order volume. Prioritization of these regions in future growth plans - with special focus on top-performing countries like the United States and Great Britian - is recommended to sustain the 28% revenue growth achieved since 2019.
+- **Prioritize core high-performing regions to sustain growth.**  
+  NA and EMEA together contributed 81% of total sales ($22.8M). Focus sales resources on these regions, especially top performing countries like the U.S. (47% of global revenue), Great Britain (7%), and Canada (4%) to maintain strong baseline performance and stable revenue retention.
+
+- **Identify high-potential APAC opportunities.**
+  Though smaller in total volume, APAC maintained the highest regional AOV (+7% above global). Strengthen sales targeting in markets like Japan (AOV $393, +51% above global) to diversify revenue and raise global order value.
+
+- **Plan capacity around predictable seasonal surges.**
+  Consistent spikes in November–December (+22% average sales growth) and September (+12%) highlight recurring demand windows. Adjust inventory and staffing to capture maximum order volume during these proven peaks.
+
 
 ### Marketing Team
+
+- **Capitalize on APAC’s higher average spend per order.**  
+  Promote high-value products such as MacBook Airs and ThinkPads in high-AOV APAC markets — particularly Japan — to increase per-order profitability while leveraging the region’s premium consumer behavior.
+
+- **Align targeted promotions with Seasonal cycles.**  
+  Concentrate major campaigns around recurring demand peaks — September (back-to-school), November, and December (holiday). Seasonal targeting of high-performing products, such as ThinkPad laptops in Q4, can help boost conversions.
+ 
+### Product Team
+
+- **Reassess lower impact products.**  
+  Four products accounted for 96% of total revenue, signaling potential over-reliance. Evaluate underperforming products (ex. iPhone, Bose Soundsport Headphones) for potential discontinuation or repositioning to optimize product mix and resource allocation.
+  
+- **Bundle Complementary low-AOV products to raise cart value.**  
+  High-volume, low-AOV items like Samsung Charging Cable Packs could be bundled with premium or mid-tier products to increase AOV and maximize revenue for price-sensitive customers.
+
+- **Expand premium-focused offerings in high-AOV regions.**
+  Given Japan’s +51% AOV advantage, develop targeted premium offerings or localized promotions for top products like MacBook Airs or 4K Gaming Monitors to align with regional spending behaviors.
+
+### Operations Team
+
+- **Align inventory and warehouse planning with recurring demand peaks.**  
+  Seasonal surges were highly predictable, with September (+9% average order growth) and November–December (+23%, +21%) consistently outperformed baseline months. Forecast inventory, staffing, and capacity around these cycles to minimize backorders and delivery delays.
+
+- **Prioritize supply continuity for high-performing products.**
+  Four products accounted for 96% of total sales- 4K monitors, Apple Airpods, MacBook Airs and ThinkPads. Ensure consistent supplier reliability and adequate stock for these items to prevent revenue loss from stockouts during peak months.
+
+<!-- - **Explore underlying causes of elevated return rates for specific products.**  
+High-AOV products like MacBook Airs, Thinkpad Laptops and Apple iPhones had higher refund rates. Collaboration with with product and operations teams is recommended to to investigate root causes of returns (ex. leveraging repair logs, survey feedback, and return reasons) —to inform quality control and marketing. 
+
+- **Conduct deeper analysis of loyalty program's retention by cohort**  
+  The program’s long-term strategic value remains uncertain, especially regarding repeat behavior. Conduct deeper analysis on loyalty participation, repeat purchase rates, and conversion from first-time to returning customers to assess customer retention impact.
+
+- **Conduct further analysis of Loyalty Program across influencial key dimensions.**   
+  Current reporting lacks dimension-level loyalty insights (ex. by marketing channel or product line). Analyze loyalty performance across marketing channels and region to identify trends and tailor program marketing.
+
+  - **Leverage Loyalty Program as a retention driver.**   
+  Loyalty customers maintained higher AOV stability and outperformed non-loyalty groups through volatile periods. Maintain regular monitoring of engagement trends and segment-based performance to ensure continued growth from this customer base.
 
 - **Capitalize on APAC region to increase revenue per order.**  
   Consider promoting premium products like MacBook Airs and ThinkPads in the APAC region to take advantage of this region's high AOV. Consider prioritizing high AOV countries in the region with meaningful order volume to build on existing traction efficiently, like Japan.
@@ -276,17 +321,17 @@ The absence of 2022 refund records limits visibility into return behavior, parti
 - **Leverage seasonal cycles to maximize promotions**
   Customers regularly showed increased spending during recurring seasonal windows, especially November, December and September months. Consider promoting high performing seasonal products at opportune times, like Thinkpad Laptops around Christmas.
 
-### Product Team
+------
+- **Prioritize high-performing regions to sustain growth.**  
+  NA and EMEA contributed 81% of total revenue, driven by consistently high order volume. Prioritization of these regions in future growth plans - with special focus on top-performing countries like the United States and Great Britian - is recommended to sustain the 28% revenue growth achieved since 2019.
 
-- **Conduct deeper analysis of loyalty program's retention by cohort**  
-  The program’s long-term strategic value remains uncertain, especially regarding repeat behavior. Conduct deeper analysis on loyalty participation, repeat purchase rates, and conversion from first-time to returning customers to assess customer retention impact.
+  ----
+- **Evaluate the loyalty program’s cost-efficiency.**  
+  While Loyalty customers demonstrated higher resilience during the post-pandemic downturn, the program's net impact remains unclear without visibility into associated costs. Evaluate the loyalty program’s costs relative to its returns — particularly in the post-pandemic period to understand its true impact.
 
-- **Conduct further analysis of Loyalty Program across influencial key dimensions.**   
-  Current reporting lacks dimension-level loyalty insights (ex. by marketing channel or product line). Analyze loyalty performance across marketing channels and region to identify trends and tailor program marketing.
+<!-- **Audit and recover missing refund data to support product-level decision-making.**   
+The absence of 2022 refund records limits visibility into return behavior, particularly for high-AOV items like MacBook Airs. Partnership with the payments and/or data engineering teams to investigate data gaps and uncover root causes will support more accurate product performance analysis. -->
 
-<!-- - **Explore underlying causes of elevated return rates for specific products.**  
-High-AOV products like MacBook Airs, Thinkpad Laptops and Apple iPhones had higher refund rates. Collaboration with with product and operations teams is recommended to to investigate root causes of returns (ex. leveraging repair logs, survey feedback, and return reasons) —to inform quality control and marketing. 
--->
 
 ## Appendix
 ### Assumptions & Caveats
