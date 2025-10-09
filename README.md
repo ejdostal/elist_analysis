@@ -136,7 +136,7 @@ Global revenue was highly concentrated in NA and EMEA regions, which together dr
 - **Great Britain** led the region at $2.1M (25% of EMEA revenue) with strong order volume (8.3K) but lower spending per order (AOV $251, -4% below global average). Like Canada, Great Britian may benefit from efforts to increase AOV through product mix adjustments.
 - **Germany** followed with $994K (12% of EMEA revenue) and fewer orders (3.7K) but a higher AOV ($270, +4% above global avg), highlighting stronger per-order profitability.
 
-**Asia-Pacific (APAC) — $3.7M | 13% of Global Sales | Strong Premium Potential** 
+**Asia-Pacific (APAC) — 13% of Global Sales | Strong Premium Potential** 
 - Despite smaller share at $3.7M and 13.1K orders, APAC boosted the highest regional AOV at $279 - an AOV +7% above global average, signaling high earning potential. 
 - **Japan** stood out with an AOV of $393 (+51% above global average and 41% above APAC's already high regional average), generating $1M, or 4% of global revenue, from just 2.6K orders — making it ideal for premium offering promotions.
 - **Australia**, while leading in orders (4.8K), had a low AOV of $204 (-22%), making it likely better suited to volume-driven or lower-priced products.
