@@ -39,6 +39,7 @@ Jump to sections of interest quickly using the following links.
     - [Marketing Team](#marketing-team)
     - [Product Team](#product-team)
     - [Operations Team](#operations-team)
+  - [Stakeholder presentation (link)](#final-presentation)
   - [Appendix](#appendix)
     - [Assumptions \& Caveats](#assumptions--caveats)
     - [Database Structure \& Cleaning](#database-structure--cleaning)
@@ -332,6 +333,8 @@ High-AOV products like MacBook Airs, Thinkpad Laptops and Apple iPhones had high
 <!-- **Audit and recover missing refund data to support product-level decision-making.**   
 The absence of 2022 refund records limits visibility into return behavior, particularly for high-AOV items like MacBook Airs. Partnership with the payments and/or data engineering teams to investigate data gaps and uncover root causes will support more accurate product performance analysis. -->
 
+## Final Presentation
+A final presentation highlighting key findings from this analysis for business teams can be found [here](https://docs.google.com/presentation/d/1dy83lQdurgjAlDlT0JpJ88nhDbPf8rsS/edit?usp=share_link&ouid=106067666576474765486&rtpof=true&sd=true).
 
 ## Appendix
 ### Assumptions & Caveats
